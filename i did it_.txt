@@ -1,0 +1,2825 @@
+-- This file was generated with UnveilR V3.1 at discord.gg/threaded using the testing version.
+
+local v275, v1764, v1676, v2638, v228, v1498, v2767, v77, v1894, v2464, v2028, v2247, v2203, v2422, v1323, v2378, v1545, v274, v1763, v961, v1544, v318, v1588, v1003, v1893, v1939, v2377, v1278, v783, v2333, v1098, v1632, v2072, v2160, v510, v872, v1633, v2595, v2290, v1322, v2811, v2639, v2421, v1677, v2681, v2550, v1720, v1984, v1499, v78, v2594, v2159, v828, v1188, v1143, v1411, v2073, v1850, v1144, v917, v647, v2291, v600, v2116, v1938, v366, v1808, v1097, v2854, v2465, v1589, v2508, v1004, v737, v2768, v2724, v2507, v1851, v180, v2682, v960, v2334, v181, v829, v14, v782, v2551, v131, v365, v2725, v319, v509, v2117, v1232, v2853, v1367, v464, v1719, v12, v1049, v873, v1985, v229, v694, v2204, v2248, v463, v130, v1233, v1410, v1279, v1050, v415, v738, v1453, v916, v416, v11, v599, v1366, v554, v648, v1454, v693, v2810, v1187, v553, v2029, v1807;
+xpcall(function(a_9, b_9, c_9, ...)
+    xpcall(function(a_94, b_94, c_94, ...)
+        xpcall(function(a_304, b_304, c_304, ...)
+            xpcall(function(a_584, b_584, c_584, ...)
+                xpcall(function(a_794, b_794, c_794, ...)
+                    xpcall(function(a_878, b_878, c_878, ...)
+                        if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 189 (1:1)
+                        end;
+
+                        local v2830, v2831 = pcall(v11, game, "RunService");
+                        local v2833, v2834 = pcall(v11, game, "Workspace");
+
+                        if not v2830 or (not v2833) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 190 (1:1)
+                        end;
+
+                        local success_62, v2855, v2856 = pcall(function(a_888, b_888, c_888)
+                            local v2853 = v12:IsClient();
+                            local v2854 = v12:IsServer();
+
+                            return v2853, v2854;
+                        end);
+
+                        if not success_62 or ((type(v2853) ~= "boolean")) or ((type(v2854) ~= "boolean")) or ((v2853 == v2854)) then -- ran, if id: 191 (1:1)
+                        end;
+
+                        xpcall(function(a_94, b_94, c_94)
+                            return "FlowObf Error";
+                        end, function(a_892, b_892, c_892)
+                            return "FlowObf Error";
+                        end);
+
+                        error("FlowObf Error", 0);
+                    end, function(p1_23, a_23, b_23, c_23)
+                        xpcall(function(a_94, b_94, c_94)
+                            return "FlowObf Error";
+                        end, function(a_164, b_164, c_164)
+                            return "FlowObf Error";
+                        end);
+
+                        return "FlowObf Error";
+                    end);
+
+                    if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 171 (1:1)
+                    end;
+
+                    local v2571, v2572 = pcall(v11, game, "RunService");
+                    local v2574, v2575 = pcall(v11, game, "Workspace");
+
+                    if not v2571 or (not v2574) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 172 (1:1)
+                    end;
+
+                    local success_56, v2596, v2597 = pcall(function(a_804, b_804, c_804)
+                        local v2594 = v12:IsClient();
+                        local v2595 = v12:IsServer();
+
+                        return v2594, v2595;
+                    end);
+
+                    if not success_56 or ((type(v2594) ~= "boolean")) or ((type(v2595) ~= "boolean")) or ((v2594 == v2595)) then -- ran, if id: 173 (1:1)
+                    end;
+
+                    xpcall(function(a_94, b_94, c_94)
+                        return "FlowObf Error";
+                    end, function(a_892, b_892, c_892)
+                        return "FlowObf Error";
+                    end);
+
+                    error("FlowObf Error", 0);
+
+                    xpcall(function(a_94, b_94, c_94)
+                        return "FlowObf Error";
+                    end, function(a_892, b_892, c_892)
+                        return "FlowObf Error";
+                    end);
+
+                    error("FlowObf Error", 0);
+                end, function(p1_23, a_23, b_23, c_23)
+                    xpcall(function(a_94, b_94, c_94)
+                        return "FlowObf Error";
+                    end, function(a_164, b_164, c_164)
+                        return "FlowObf Error";
+                    end);
+
+                    return "FlowObf Error";
+                end);
+                xpcall(function(a_808, b_808, c_808, ...)
+                    if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 174 (1:1)
+                    end;
+
+                    local v2615, v2616 = pcall(v11, game, "RunService");
+                    local v2618, v2619 = pcall(v11, game, "Workspace");
+
+                    if not v2615 or (not v2618) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 175 (1:1)
+                    end;
+
+                    local success_57, v2640, v2641 = pcall(function(a_818, b_818, c_818)
+                        local v2638 = v12:IsClient();
+                        local v2639 = v12:IsServer();
+
+                        return v2638, v2639;
+                    end);
+
+                    if not success_57 or ((type(v2638) ~= "boolean")) or ((type(v2639) ~= "boolean")) or ((v2638 == v2639)) then -- ran, if id: 176 (1:1)
+                    end;
+
+                    xpcall(function(a_94, b_94, c_94)
+                        return "FlowObf Error";
+                    end, function(a_892, b_892, c_892)
+                        return "FlowObf Error";
+                    end);
+
+                    error("FlowObf Error", 0);
+                end, function(p1_23, a_23, b_23, c_23)
+                    xpcall(function(a_94, b_94, c_94)
+                        return "FlowObf Error";
+                    end, function(a_164, b_164, c_164)
+                        return "FlowObf Error";
+                    end);
+
+                    return "FlowObf Error";
+                end);
+
+                if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 126 (1:1)
+                end;
+
+                local v1915, v1916 = pcall(v11, game, "RunService");
+                local v1918, v1919 = pcall(v11, game, "Workspace");
+
+                if not v1915 or (not v1918) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 127 (1:1)
+                end;
+
+                local success_41, v1940, v1941 = pcall(function(a_594, b_594, c_594)
+                    local v1938 = v12:IsClient();
+                    local v1939 = v12:IsServer();
+
+                    return v1938, v1939;
+                end);
+
+                if not success_41 or ((type(v1938) ~= "boolean")) or ((type(v1939) ~= "boolean")) or ((v1938 == v1939)) then -- ran, if id: 128 (1:1)
+                end;
+
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_822, b_822, c_822)
+                    return "FlowObf Error";
+                end);
+
+                error("FlowObf Error", 0);
+
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_822, b_822, c_822)
+                    return "FlowObf Error";
+                end);
+
+                error("FlowObf Error", 0);
+
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_822, b_822, c_822)
+                    return "FlowObf Error";
+                end);
+
+                error("FlowObf Error", 0);
+            end, function(p1_23, a_23, b_23, c_23)
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_164, b_164, c_164)
+                    return "FlowObf Error";
+                end);
+
+                return "FlowObf Error";
+            end);
+            xpcall(function(a_598, b_598, c_598, ...)
+                xpcall(function(a_822, b_822, c_822, ...)
+                    if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 177 (1:1)
+                    end;
+
+                    local v2658, v2659 = pcall(v11, game, "RunService");
+                    local v2661, v2662 = pcall(v11, game, "Workspace");
+
+                    if not v2658 or (not v2661) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 178 (1:1)
+                    end;
+
+                    local success_58, v2683, v2684 = pcall(function(a_832, b_832, c_832)
+                        local v2681 = v12:IsClient();
+                        local v2682 = v12:IsServer();
+
+                        return v2681, v2682;
+                    end);
+
+                    if not success_58 or ((type(v2681) ~= "boolean")) or ((type(v2682) ~= "boolean")) or ((v2681 == v2682)) then -- ran, if id: 179 (1:1)
+                    end;
+
+                    xpcall(function(a_94, b_94, c_94)
+                        return "FlowObf Error";
+                    end, function(a_892, b_892, c_892)
+                        return "FlowObf Error";
+                    end);
+
+                    error("FlowObf Error", 0);
+                end, function(p1_23, a_23, b_23, c_23)
+                    xpcall(function(a_94, b_94, c_94)
+                        return "FlowObf Error";
+                    end, function(a_164, b_164, c_164)
+                        return "FlowObf Error";
+                    end);
+
+                    return "FlowObf Error";
+                end);
+
+                if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 129 (1:1)
+                end;
+
+                local v1961, v1962 = pcall(v11, game, "RunService");
+                local v1964, v1965 = pcall(v11, game, "Workspace");
+
+                if not v1961 or (not v1964) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 130 (1:1)
+                end;
+
+                local success_42, v1986, v1987 = pcall(function(a_608, b_608, c_608)
+                    local v1984 = v12:IsClient();
+                    local v1985 = v12:IsServer();
+
+                    return v1984, v1985;
+                end);
+
+                if not success_42 or ((type(v1984) ~= "boolean")) or ((type(v1985) ~= "boolean")) or ((v1984 == v1985)) then -- ran, if id: 131 (1:1)
+                end;
+
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_836, b_836, c_836)
+                    return "FlowObf Error";
+                end);
+
+                error("FlowObf Error", 0);
+
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_836, b_836, c_836)
+                    return "FlowObf Error";
+                end);
+
+                error("FlowObf Error", 0);
+            end, function(p1_23, a_23, b_23, c_23)
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_164, b_164, c_164)
+                    return "FlowObf Error";
+                end);
+
+                return "FlowObf Error";
+            end);
+            xpcall(function(a_612, b_612, c_612, ...)
+                if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 132 (1:1)
+                end;
+
+                local v2005, v2006 = pcall(v11, game, "RunService");
+                local v2008, v2009 = pcall(v11, game, "Workspace");
+
+                if not v2005 or (not v2008) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 133 (1:1)
+                end;
+
+                local success_43, v2030, v2031 = pcall(function(a_622, b_622, c_622)
+                    local v2028 = v12:IsClient();
+                    local v2029 = v12:IsServer();
+
+                    return v2028, v2029;
+                end);
+
+                if not success_43 or ((type(v2028) ~= "boolean")) or ((type(v2029) ~= "boolean")) or ((v2028 == v2029)) then -- ran, if id: 134 (1:1)
+                end;
+
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_836, b_836, c_836)
+                    return "FlowObf Error";
+                end);
+
+                error("FlowObf Error", 0);
+            end, function(p1_23, a_23, b_23, c_23)
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_164, b_164, c_164)
+                    return "FlowObf Error";
+                end);
+
+                return "FlowObf Error";
+            end);
+
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 66 (1:1)
+            end;
+
+            local v1026, v1027 = pcall(v11, game, "RunService");
+            local v1029, v1030 = pcall(v11, game, "Workspace");
+
+            if not v1026 or (not v1029) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 67 (1:1)
+            end;
+
+            local success_21, v1051, v1052 = pcall(function(a_314, b_314, c_314)
+                local v1049 = v12:IsClient();
+                local v1050 = v12:IsServer();
+
+                return v1049, v1050;
+            end);
+
+            if not success_21 or ((type(v1049) ~= "boolean")) or ((type(v1050) ~= "boolean")) or ((v1049 == v1050)) then -- ran, if id: 68 (1:1)
+            end;
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_626, b_626, c_626)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_626, b_626, c_626)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_626, b_626, c_626)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_626, b_626, c_626)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+        end, function(p1_23, a_23, b_23, c_23)
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_164, b_164, c_164)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+        xpcall(function(a_318, b_318, c_318, ...)
+            xpcall(function(a_626, b_626, c_626, ...)
+                xpcall(function(a_836, b_836, c_836, ...)
+                    if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 180 (1:1)
+                    end;
+
+                    local v2701, v2702 = pcall(v11, game, "RunService");
+                    local v2704, v2705 = pcall(v11, game, "Workspace");
+
+                    if not v2701 or (not v2704) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 181 (1:1)
+                    end;
+
+                    local success_59, v2726, v2727 = pcall(function(a_846, b_846, c_846)
+                        local v2724 = v12:IsClient();
+                        local v2725 = v12:IsServer();
+
+                        return v2724, v2725;
+                    end);
+
+                    if not success_59 or ((type(v2724) ~= "boolean")) or ((type(v2725) ~= "boolean")) or ((v2724 == v2725)) then -- ran, if id: 182 (1:1)
+                    end;
+
+                    xpcall(function(a_94, b_94, c_94)
+                        return "FlowObf Error";
+                    end, function(a_892, b_892, c_892)
+                        return "FlowObf Error";
+                    end);
+
+                    error("FlowObf Error", 0);
+                end, function(p1_23, a_23, b_23, c_23)
+                    xpcall(function(a_94, b_94, c_94)
+                        return "FlowObf Error";
+                    end, function(a_164, b_164, c_164)
+                        return "FlowObf Error";
+                    end);
+
+                    return "FlowObf Error";
+                end);
+
+                if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 135 (1:1)
+                end;
+
+                local v2049, v2050 = pcall(v11, game, "RunService");
+                local v2052, v2053 = pcall(v11, game, "Workspace");
+
+                if not v2049 or (not v2052) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 136 (1:1)
+                end;
+
+                local success_44, v2074, v2075 = pcall(function(a_636, b_636, c_636)
+                    local v2072 = v12:IsClient();
+                    local v2073 = v12:IsServer();
+
+                    return v2072, v2073;
+                end);
+
+                if not success_44 or ((type(v2072) ~= "boolean")) or ((type(v2073) ~= "boolean")) or ((v2072 == v2073)) then -- ran, if id: 137 (1:1)
+                end;
+
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_850, b_850, c_850)
+                    return "FlowObf Error";
+                end);
+
+                error("FlowObf Error", 0);
+
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_850, b_850, c_850)
+                    return "FlowObf Error";
+                end);
+
+                error("FlowObf Error", 0);
+            end, function(p1_23, a_23, b_23, c_23)
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_164, b_164, c_164)
+                    return "FlowObf Error";
+                end);
+
+                return "FlowObf Error";
+            end);
+            xpcall(function(a_640, b_640, c_640, ...)
+                if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 138 (1:1)
+                end;
+
+                local v2093, v2094 = pcall(v11, game, "RunService");
+                local v2096, v2097 = pcall(v11, game, "Workspace");
+
+                if not v2093 or (not v2096) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 139 (1:1)
+                end;
+
+                local success_45, v2118, v2119 = pcall(function(a_650, b_650, c_650)
+                    local v2116 = v12:IsClient();
+                    local v2117 = v12:IsServer();
+
+                    return v2116, v2117;
+                end);
+
+                if not success_45 or ((type(v2116) ~= "boolean")) or ((type(v2117) ~= "boolean")) or ((v2116 == v2117)) then -- ran, if id: 140 (1:1)
+                end;
+
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_850, b_850, c_850)
+                    return "FlowObf Error";
+                end);
+
+                error("FlowObf Error", 0);
+            end, function(p1_23, a_23, b_23, c_23)
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_164, b_164, c_164)
+                    return "FlowObf Error";
+                end);
+
+                return "FlowObf Error";
+            end);
+
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 69 (1:1)
+            end;
+
+            local v1074, v1075 = pcall(v11, game, "RunService");
+            local v1077, v1078 = pcall(v11, game, "Workspace");
+
+            if not v1074 or (not v1077) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 70 (1:1)
+            end;
+
+            local success_22, v1099, v1100 = pcall(function(a_328, b_328, c_328)
+                local v1097 = v12:IsClient();
+                local v1098 = v12:IsServer();
+
+                return v1097, v1098;
+            end);
+
+            if not success_22 or ((type(v1097) ~= "boolean")) or ((type(v1098) ~= "boolean")) or ((v1097 == v1098)) then -- ran, if id: 71 (1:1)
+            end;
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_654, b_654, c_654)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_654, b_654, c_654)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_654, b_654, c_654)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+        end, function(p1_23, a_23, b_23, c_23)
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_164, b_164, c_164)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+        xpcall(function(a_332, b_332, c_332, ...)
+            xpcall(function(a_654, b_654, c_654, ...)
+                if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 141 (1:1)
+                end;
+
+                local v2136, v2137 = pcall(v11, game, "RunService");
+                local v2139, v2140 = pcall(v11, game, "Workspace");
+
+                if not v2136 or (not v2139) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 142 (1:1)
+                end;
+
+                local success_46, v2161, v2162 = pcall(function(a_664, b_664, c_664)
+                    local v2159 = v12:IsClient();
+                    local v2160 = v12:IsServer();
+
+                    return v2159, v2160;
+                end);
+
+                if not success_46 or ((type(v2159) ~= "boolean")) or ((type(v2160) ~= "boolean")) or ((v2159 == v2160)) then -- ran, if id: 143 (1:1)
+                end;
+
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_850, b_850, c_850)
+                    return "FlowObf Error";
+                end);
+
+                error("FlowObf Error", 0);
+            end, function(p1_23, a_23, b_23, c_23)
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_164, b_164, c_164)
+                    return "FlowObf Error";
+                end);
+
+                return "FlowObf Error";
+            end);
+
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 72 (1:1)
+            end;
+
+            local v1120, v1121 = pcall(v11, game, "RunService");
+            local v1123, v1124 = pcall(v11, game, "Workspace");
+
+            if not v1120 or (not v1123) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 73 (1:1)
+            end;
+
+            local success_23, v1145, v1146 = pcall(function(a_342, b_342, c_342)
+                local v1143 = v12:IsClient();
+                local v1144 = v12:IsServer();
+
+                return v1143, v1144;
+            end);
+
+            if not success_23 or ((type(v1143) ~= "boolean")) or ((type(v1144) ~= "boolean")) or ((v1143 == v1144)) then -- ran, if id: 74 (1:1)
+            end;
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_668, b_668, c_668)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_668, b_668, c_668)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+        end, function(p1_23, a_23, b_23, c_23)
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_164, b_164, c_164)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+        xpcall(function(a_346, b_346, c_346, ...)
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 75 (1:1)
+            end;
+
+            local v1164, v1165 = pcall(v11, game, "RunService");
+            local v1167, v1168 = pcall(v11, game, "Workspace");
+
+            if not v1164 or (not v1167) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 76 (1:1)
+            end;
+
+            local success_24, v1189, v1190 = pcall(function(a_356, b_356, c_356)
+                local v1187 = v12:IsClient();
+                local v1188 = v12:IsServer();
+
+                return v1187, v1188;
+            end);
+
+            if not success_24 or ((type(v1187) ~= "boolean")) or ((type(v1188) ~= "boolean")) or ((v1187 == v1188)) then -- ran, if id: 77 (1:1)
+            end;
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_668, b_668, c_668)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+        end, function(p1_23, a_23, b_23, c_23)
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_164, b_164, c_164)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+
+        if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 21 (1:1)
+        end;
+
+        local v342, v343 = pcall(v11, game, "RunService");
+        local v345, v346 = pcall(v11, game, "Workspace");
+
+        if not v342 or (not v345) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 22 (1:1)
+        end;
+
+        local success_6, v367, v368 = pcall(function(a_104, b_104, c_104)
+            local v365 = v12:IsClient();
+            local v366 = v12:IsServer();
+
+            return v365, v366;
+        end);
+
+        if not success_6 or ((type(v365) ~= "boolean")) or ((type(v366) ~= "boolean")) or ((v365 == v366)) then -- ran, if id: 23 (1:1)
+        end;
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_360, b_360, c_360)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_360, b_360, c_360)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_360, b_360, c_360)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_360, b_360, c_360)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_360, b_360, c_360)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+    end, function(p1_23, a_23, b_23, c_23)
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_164, b_164, c_164)
+            return "FlowObf Error";
+        end);
+
+        return "FlowObf Error";
+    end);
+    xpcall(function(a_108, b_108, c_108, ...)
+        xpcall(function(a_360, b_360, c_360, ...)
+            xpcall(function(a_668, b_668, c_668, ...)
+                xpcall(function(a_850, b_850, c_850, ...)
+                    if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 183 (1:1)
+                    end;
+
+                    local v2744, v2745 = pcall(v11, game, "RunService");
+                    local v2747, v2748 = pcall(v11, game, "Workspace");
+
+                    if not v2744 or (not v2747) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 184 (1:1)
+                    end;
+
+                    local success_60, v2769, v2770 = pcall(function(a_860, b_860, c_860)
+                        local v2767 = v12:IsClient();
+                        local v2768 = v12:IsServer();
+
+                        return v2767, v2768;
+                    end);
+
+                    if not success_60 or ((type(v2767) ~= "boolean")) or ((type(v2768) ~= "boolean")) or ((v2767 == v2768)) then -- ran, if id: 185 (1:1)
+                    end;
+
+                    xpcall(function(a_94, b_94, c_94)
+                        return "FlowObf Error";
+                    end, function(a_892, b_892, c_892)
+                        return "FlowObf Error";
+                    end);
+
+                    error("FlowObf Error", 0);
+                end, function(p1_23, a_23, b_23, c_23)
+                    xpcall(function(a_94, b_94, c_94)
+                        return "FlowObf Error";
+                    end, function(a_164, b_164, c_164)
+                        return "FlowObf Error";
+                    end);
+
+                    return "FlowObf Error";
+                end);
+
+                if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 144 (1:1)
+                end;
+
+                local v2180, v2181 = pcall(v11, game, "RunService");
+                local v2183, v2184 = pcall(v11, game, "Workspace");
+
+                if not v2180 or (not v2183) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 145 (1:1)
+                end;
+
+                local success_47, v2205, v2206 = pcall(function(a_678, b_678, c_678)
+                    local v2203 = v12:IsClient();
+                    local v2204 = v12:IsServer();
+
+                    return v2203, v2204;
+                end);
+
+                if not success_47 or ((type(v2203) ~= "boolean")) or ((type(v2204) ~= "boolean")) or ((v2203 == v2204)) then -- ran, if id: 146 (1:1)
+                end;
+
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_864, b_864, c_864)
+                    return "FlowObf Error";
+                end);
+
+                error("FlowObf Error", 0);
+
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_864, b_864, c_864)
+                    return "FlowObf Error";
+                end);
+
+                error("FlowObf Error", 0);
+            end, function(p1_23, a_23, b_23, c_23)
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_164, b_164, c_164)
+                    return "FlowObf Error";
+                end);
+
+                return "FlowObf Error";
+            end);
+            xpcall(function(a_682, b_682, c_682, ...)
+                if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 147 (1:1)
+                end;
+
+                local v2224, v2225 = pcall(v11, game, "RunService");
+                local v2227, v2228 = pcall(v11, game, "Workspace");
+
+                if not v2224 or (not v2227) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 148 (1:1)
+                end;
+
+                local success_48, v2249, v2250 = pcall(function(a_692, b_692, c_692)
+                    local v2247 = v12:IsClient();
+                    local v2248 = v12:IsServer();
+
+                    return v2247, v2248;
+                end);
+
+                if not success_48 or ((type(v2247) ~= "boolean")) or ((type(v2248) ~= "boolean")) or ((v2247 == v2248)) then -- ran, if id: 149 (1:1)
+                end;
+
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_864, b_864, c_864)
+                    return "FlowObf Error";
+                end);
+
+                error("FlowObf Error", 0);
+            end, function(p1_23, a_23, b_23, c_23)
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_164, b_164, c_164)
+                    return "FlowObf Error";
+                end);
+
+                return "FlowObf Error";
+            end);
+
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 78 (1:1)
+            end;
+
+            local v1209, v1210 = pcall(v11, game, "RunService");
+            local v1212, v1213 = pcall(v11, game, "Workspace");
+
+            if not v1209 or (not v1212) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 79 (1:1)
+            end;
+
+            local success_25, v1234, v1235 = pcall(function(a_370, b_370, c_370)
+                local v1232 = v12:IsClient();
+                local v1233 = v12:IsServer();
+
+                return v1232, v1233;
+            end);
+
+            if not success_25 or ((type(v1232) ~= "boolean")) or ((type(v1233) ~= "boolean")) or ((v1232 == v1233)) then -- ran, if id: 80 (1:1)
+            end;
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_696, b_696, c_696)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_696, b_696, c_696)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_696, b_696, c_696)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+        end, function(p1_23, a_23, b_23, c_23)
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_164, b_164, c_164)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+        xpcall(function(a_374, b_374, c_374, ...)
+            xpcall(function(a_696, b_696, c_696, ...)
+                if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 150 (1:1)
+                end;
+
+                local v2267, v2268 = pcall(v11, game, "RunService");
+                local v2270, v2271 = pcall(v11, game, "Workspace");
+
+                if not v2267 or (not v2270) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 151 (1:1)
+                end;
+
+                local success_49, v2292, v2293 = pcall(function(a_706, b_706, c_706)
+                    local v2290 = v12:IsClient();
+                    local v2291 = v12:IsServer();
+
+                    return v2290, v2291;
+                end);
+
+                if not success_49 or ((type(v2290) ~= "boolean")) or ((type(v2291) ~= "boolean")) or ((v2290 == v2291)) then -- ran, if id: 152 (1:1)
+                end;
+
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_864, b_864, c_864)
+                    return "FlowObf Error";
+                end);
+
+                error("FlowObf Error", 0);
+            end, function(p1_23, a_23, b_23, c_23)
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_164, b_164, c_164)
+                    return "FlowObf Error";
+                end);
+
+                return "FlowObf Error";
+            end);
+
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 81 (1:1)
+            end;
+
+            local v1255, v1256 = pcall(v11, game, "RunService");
+            local v1258, v1259 = pcall(v11, game, "Workspace");
+
+            if not v1255 or (not v1258) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 82 (1:1)
+            end;
+
+            local success_26, v1280, v1281 = pcall(function(a_384, b_384, c_384)
+                local v1278 = v12:IsClient();
+                local v1279 = v12:IsServer();
+
+                return v1278, v1279;
+            end);
+
+            if not success_26 or ((type(v1278) ~= "boolean")) or ((type(v1279) ~= "boolean")) or ((v1278 == v1279)) then -- ran, if id: 83 (1:1)
+            end;
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_710, b_710, c_710)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_710, b_710, c_710)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+        end, function(p1_23, a_23, b_23, c_23)
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_164, b_164, c_164)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+        xpcall(function(a_388, b_388, c_388, ...)
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 84 (1:1)
+            end;
+
+            local v1299, v1300 = pcall(v11, game, "RunService");
+            local v1302, v1303 = pcall(v11, game, "Workspace");
+
+            if not v1299 or (not v1302) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 85 (1:1)
+            end;
+
+            local success_27, v1324, v1325 = pcall(function(a_398, b_398, c_398)
+                local v1322 = v12:IsClient();
+                local v1323 = v12:IsServer();
+
+                return v1322, v1323;
+            end);
+
+            if not success_27 or ((type(v1322) ~= "boolean")) or ((type(v1323) ~= "boolean")) or ((v1322 == v1323)) then -- ran, if id: 86 (1:1)
+            end;
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_710, b_710, c_710)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+        end, function(p1_23, a_23, b_23, c_23)
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_164, b_164, c_164)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+
+        if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 24 (1:1)
+        end;
+
+        local v392, v393 = pcall(v11, game, "RunService");
+        local v395, v396 = pcall(v11, game, "Workspace");
+
+        if not v392 or (not v395) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 25 (1:1)
+        end;
+
+        local success_7, v417, v418 = pcall(function(a_118, b_118, c_118)
+            local v415 = v12:IsClient();
+            local v416 = v12:IsServer();
+
+            return v415, v416;
+        end);
+
+        if not success_7 or ((type(v415) ~= "boolean")) or ((type(v416) ~= "boolean")) or ((v415 == v416)) then -- ran, if id: 26 (1:1)
+        end;
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_402, b_402, c_402)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_402, b_402, c_402)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_402, b_402, c_402)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_402, b_402, c_402)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+    end, function(p1_23, a_23, b_23, c_23)
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_164, b_164, c_164)
+            return "FlowObf Error";
+        end);
+
+        return "FlowObf Error";
+    end);
+    xpcall(function(a_122, b_122, c_122, ...)
+        xpcall(function(a_402, b_402, c_402, ...)
+            xpcall(function(a_710, b_710, c_710, ...)
+                if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 153 (1:1)
+                end;
+
+                local v2310, v2311 = pcall(v11, game, "RunService");
+                local v2313, v2314 = pcall(v11, game, "Workspace");
+
+                if not v2310 or (not v2313) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 154 (1:1)
+                end;
+
+                local success_50, v2335, v2336 = pcall(function(a_720, b_720, c_720)
+                    local v2333 = v12:IsClient();
+                    local v2334 = v12:IsServer();
+
+                    return v2333, v2334;
+                end);
+
+                if not success_50 or ((type(v2333) ~= "boolean")) or ((type(v2334) ~= "boolean")) or ((v2333 == v2334)) then -- ran, if id: 155 (1:1)
+                end;
+
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_864, b_864, c_864)
+                    return "FlowObf Error";
+                end);
+
+                error("FlowObf Error", 0);
+            end, function(p1_23, a_23, b_23, c_23)
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_164, b_164, c_164)
+                    return "FlowObf Error";
+                end);
+
+                return "FlowObf Error";
+            end);
+
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 87 (1:1)
+            end;
+
+            local v1343, v1344 = pcall(v11, game, "RunService");
+            local v1346, v1347 = pcall(v11, game, "Workspace");
+
+            if not v1343 or (not v1346) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 88 (1:1)
+            end;
+
+            local success_28, v1368, v1369 = pcall(function(a_412, b_412, c_412)
+                local v1366 = v12:IsClient();
+                local v1367 = v12:IsServer();
+
+                return v1366, v1367;
+            end);
+
+            if not success_28 or ((type(v1366) ~= "boolean")) or ((type(v1367) ~= "boolean")) or ((v1366 == v1367)) then -- ran, if id: 89 (1:1)
+            end;
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_724, b_724, c_724)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_724, b_724, c_724)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+        end, function(p1_23, a_23, b_23, c_23)
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_164, b_164, c_164)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+        xpcall(function(a_416, b_416, c_416, ...)
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 90 (1:1)
+            end;
+
+            local v1387, v1388 = pcall(v11, game, "RunService");
+            local v1390, v1391 = pcall(v11, game, "Workspace");
+
+            if not v1387 or (not v1390) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 91 (1:1)
+            end;
+
+            local success_29, v1412, v1413 = pcall(function(a_426, b_426, c_426)
+                local v1410 = v12:IsClient();
+                local v1411 = v12:IsServer();
+
+                return v1410, v1411;
+            end);
+
+            if not success_29 or ((type(v1410) ~= "boolean")) or ((type(v1411) ~= "boolean")) or ((v1410 == v1411)) then -- ran, if id: 92 (1:1)
+            end;
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_724, b_724, c_724)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+        end, function(p1_23, a_23, b_23, c_23)
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_164, b_164, c_164)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+
+        if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 27 (1:1)
+        end;
+
+        local v440, v441 = pcall(v11, game, "RunService");
+        local v443, v444 = pcall(v11, game, "Workspace");
+
+        if not v440 or (not v443) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 28 (1:1)
+        end;
+
+        local success_8, v465, v466 = pcall(function(a_132, b_132, c_132)
+            local v463 = v12:IsClient();
+            local v464 = v12:IsServer();
+
+            return v463, v464;
+        end);
+
+        if not success_8 or ((type(v463) ~= "boolean")) or ((type(v464) ~= "boolean")) or ((v463 == v464)) then -- ran, if id: 29 (1:1)
+        end;
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_430, b_430, c_430)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_430, b_430, c_430)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_430, b_430, c_430)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+    end, function(p1_23, a_23, b_23, c_23)
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_164, b_164, c_164)
+            return "FlowObf Error";
+        end);
+
+        return "FlowObf Error";
+    end);
+    xpcall(function(a_136, b_136, c_136, ...)
+        xpcall(function(a_430, b_430, c_430, ...)
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 93 (1:1)
+            end;
+
+            local v1430, v1431 = pcall(v11, game, "RunService");
+            local v1433, v1434 = pcall(v11, game, "Workspace");
+
+            if not v1430 or (not v1433) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 94 (1:1)
+            end;
+
+            local success_30, v1455, v1456 = pcall(function(a_440, b_440, c_440)
+                local v1453 = v12:IsClient();
+                local v1454 = v12:IsServer();
+
+                return v1453, v1454;
+            end);
+
+            if not success_30 or ((type(v1453) ~= "boolean")) or ((type(v1454) ~= "boolean")) or ((v1453 == v1454)) then -- ran, if id: 95 (1:1)
+            end;
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_724, b_724, c_724)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+        end, function(p1_23, a_23, b_23, c_23)
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_164, b_164, c_164)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+
+        if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 30 (1:1)
+        end;
+
+        local v486, v487 = pcall(v11, game, "RunService");
+        local v489, v490 = pcall(v11, game, "Workspace");
+
+        if not v486 or (not v489) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 31 (1:1)
+        end;
+
+        local success_9, v511, v512 = pcall(function(a_146, b_146, c_146)
+            local v509 = v12:IsClient();
+            local v510 = v12:IsServer();
+
+            return v509, v510;
+        end);
+
+        if not success_9 or ((type(v509) ~= "boolean")) or ((type(v510) ~= "boolean")) or ((v509 == v510)) then -- ran, if id: 32 (1:1)
+        end;
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_444, b_444, c_444)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_444, b_444, c_444)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+    end, function(p1_23, a_23, b_23, c_23)
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_164, b_164, c_164)
+            return "FlowObf Error";
+        end);
+
+        return "FlowObf Error";
+    end);
+    xpcall(function(a_150, b_150, c_150, ...)
+        if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 33 (1:1)
+        end;
+
+        local v530, v531 = pcall(v11, game, "RunService");
+        local v533, v534 = pcall(v11, game, "Workspace");
+
+        if not v530 or (not v533) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 34 (1:1)
+        end;
+
+        local success_10, v555, v556 = pcall(function(a_160, b_160, c_160)
+            local v553 = v12:IsClient();
+            local v554 = v12:IsServer();
+
+            return v553, v554;
+        end);
+
+        if not success_10 or ((type(v553) ~= "boolean")) or ((type(v554) ~= "boolean")) or ((v553 == v554)) then -- ran, if id: 35 (1:1)
+        end;
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_444, b_444, c_444)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+    end, function(p1_23, a_23, b_23, c_23)
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_164, b_164, c_164)
+            return "FlowObf Error";
+        end);
+
+        return "FlowObf Error";
+    end);
+
+    if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 3 (1:1)
+    end;
+
+    local v52, v53 = pcall(v11, game, "RunService");
+    local v55, v56 = pcall(v11, game, "Workspace");
+
+    if not v52 or (not v55) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 4 (1:1)
+    end;
+
+    local success, v79, v80 = pcall(function(a_19, b_19, c_19)
+        local v77 = v12:IsClient();
+        local v78 = v12:IsServer();
+
+        return v77, v78;
+    end);
+
+    if not success or ((type(v77) ~= "boolean")) or ((type(v78) ~= "boolean")) or ((v77 == v78)) then -- ran, if id: 5 (1:1)
+    end;
+
+    xpcall(function(a_94, b_94, c_94)
+        return "FlowObf Error";
+    end, function(a_164, b_164, c_164)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+
+    xpcall(function(a_94, b_94, c_94)
+        return "FlowObf Error";
+    end, function(a_164, b_164, c_164)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+
+    xpcall(function(a_94, b_94, c_94)
+        return "FlowObf Error";
+    end, function(a_164, b_164, c_164)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+
+    xpcall(function(a_94, b_94, c_94)
+        return "FlowObf Error";
+    end, function(a_164, b_164, c_164)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+
+    xpcall(function(a_94, b_94, c_94)
+        return "FlowObf Error";
+    end, function(a_164, b_164, c_164)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+
+    xpcall(function(a_94, b_94, c_94)
+        return "FlowObf Error";
+    end, function(a_164, b_164, c_164)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+end, function(p1_23, a_23, b_23, c_23)
+    xpcall(function(a_94, b_94, c_94)
+        return "FlowObf Error";
+    end, function(a_164, b_164, c_164)
+        return "FlowObf Error";
+    end);
+
+    return "FlowObf Error";
+end);
+xpcall(function(a_24, b_24, c_24, ...)
+    xpcall(function(a_164, b_164, c_164, ...)
+        xpcall(function(a_444, b_444, c_444, ...)
+            xpcall(function(a_724, b_724, c_724, ...)
+                xpcall(function(a_864, b_864, c_864, ...)
+                    if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 186 (1:1)
+                    end;
+
+                    local v2787, v2788 = pcall(v11, game, "RunService");
+                    local v2790, v2791 = pcall(v11, game, "Workspace");
+
+                    if not v2787 or (not v2790) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 187 (1:1)
+                    end;
+
+                    local success_61, v2812, v2813 = pcall(function(a_874, b_874, c_874)
+                        local v2810 = v12:IsClient();
+                        local v2811 = v12:IsServer();
+
+                        return v2810, v2811;
+                    end);
+
+                    if not success_61 or ((type(v2810) ~= "boolean")) or ((type(v2811) ~= "boolean")) or ((v2810 == v2811)) then -- ran, if id: 188 (1:1)
+                    end;
+
+                    xpcall(function(a_94, b_94, c_94)
+                        return "FlowObf Error";
+                    end, function(a_892, b_892, c_892)
+                        return "FlowObf Error";
+                    end);
+
+                    error("FlowObf Error", 0);
+                end, function(p1_23, a_23, b_23, c_23)
+                    xpcall(function(a_94, b_94, c_94)
+                        return "FlowObf Error";
+                    end, function(a_164, b_164, c_164)
+                        return "FlowObf Error";
+                    end);
+
+                    return "FlowObf Error";
+                end);
+
+                if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 156 (1:1)
+                end;
+
+                local v2354, v2355 = pcall(v11, game, "RunService");
+                local v2357, v2358 = pcall(v11, game, "Workspace");
+
+                if not v2354 or (not v2357) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 157 (1:1)
+                end;
+
+                local success_51, v2379, v2380 = pcall(function(a_734, b_734, c_734)
+                    local v2377 = v12:IsClient();
+                    local v2378 = v12:IsServer();
+
+                    return v2377, v2378;
+                end);
+
+                if not success_51 or ((type(v2377) ~= "boolean")) or ((type(v2378) ~= "boolean")) or ((v2377 == v2378)) then -- ran, if id: 158 (1:1)
+                end;
+
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_878, b_878, c_878)
+                    return "FlowObf Error";
+                end);
+
+                error("FlowObf Error", 0);
+
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_878, b_878, c_878)
+                    return "FlowObf Error";
+                end);
+
+                error("FlowObf Error", 0);
+            end, function(p1_23, a_23, b_23, c_23)
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_164, b_164, c_164)
+                    return "FlowObf Error";
+                end);
+
+                return "FlowObf Error";
+            end);
+            xpcall(function(a_738, b_738, c_738, ...)
+                if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 159 (1:1)
+                end;
+
+                local v2398, v2399 = pcall(v11, game, "RunService");
+                local v2401, v2402 = pcall(v11, game, "Workspace");
+
+                if not v2398 or (not v2401) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 160 (1:1)
+                end;
+
+                local success_52, v2423, v2424 = pcall(function(a_748, b_748, c_748)
+                    local v2421 = v12:IsClient();
+                    local v2422 = v12:IsServer();
+
+                    return v2421, v2422;
+                end);
+
+                if not success_52 or ((type(v2421) ~= "boolean")) or ((type(v2422) ~= "boolean")) or ((v2421 == v2422)) then -- ran, if id: 161 (1:1)
+                end;
+
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_878, b_878, c_878)
+                    return "FlowObf Error";
+                end);
+
+                error("FlowObf Error", 0);
+            end, function(p1_23, a_23, b_23, c_23)
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_164, b_164, c_164)
+                    return "FlowObf Error";
+                end);
+
+                return "FlowObf Error";
+            end);
+
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 96 (1:1)
+            end;
+
+            local v1475, v1476 = pcall(v11, game, "RunService");
+            local v1478, v1479 = pcall(v11, game, "Workspace");
+
+            if not v1475 or (not v1478) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 97 (1:1)
+            end;
+
+            local success_31, v1500, v1501 = pcall(function(a_454, b_454, c_454)
+                local v1498 = v12:IsClient();
+                local v1499 = v12:IsServer();
+
+                return v1498, v1499;
+            end);
+
+            if not success_31 or ((type(v1498) ~= "boolean")) or ((type(v1499) ~= "boolean")) or ((v1498 == v1499)) then -- ran, if id: 98 (1:1)
+            end;
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_752, b_752, c_752)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_752, b_752, c_752)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_752, b_752, c_752)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+        end, function(p1_23, a_23, b_23, c_23)
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_164, b_164, c_164)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+        xpcall(function(a_458, b_458, c_458, ...)
+            xpcall(function(a_752, b_752, c_752, ...)
+                if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 162 (1:1)
+                end;
+
+                local v2441, v2442 = pcall(v11, game, "RunService");
+                local v2444, v2445 = pcall(v11, game, "Workspace");
+
+                if not v2441 or (not v2444) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 163 (1:1)
+                end;
+
+                local success_53, v2466, v2467 = pcall(function(a_762, b_762, c_762)
+                    local v2464 = v12:IsClient();
+                    local v2465 = v12:IsServer();
+
+                    return v2464, v2465;
+                end);
+
+                if not success_53 or ((type(v2464) ~= "boolean")) or ((type(v2465) ~= "boolean")) or ((v2464 == v2465)) then -- ran, if id: 164 (1:1)
+                end;
+
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_878, b_878, c_878)
+                    return "FlowObf Error";
+                end);
+
+                error("FlowObf Error", 0);
+            end, function(p1_23, a_23, b_23, c_23)
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_164, b_164, c_164)
+                    return "FlowObf Error";
+                end);
+
+                return "FlowObf Error";
+            end);
+
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 99 (1:1)
+            end;
+
+            local v1521, v1522 = pcall(v11, game, "RunService");
+            local v1524, v1525 = pcall(v11, game, "Workspace");
+
+            if not v1521 or (not v1524) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 100 (1:1)
+            end;
+
+            local success_32, v1546, v1547 = pcall(function(a_468, b_468, c_468)
+                local v1544 = v12:IsClient();
+                local v1545 = v12:IsServer();
+
+                return v1544, v1545;
+            end);
+
+            if not success_32 or ((type(v1544) ~= "boolean")) or ((type(v1545) ~= "boolean")) or ((v1544 == v1545)) then -- ran, if id: 101 (1:1)
+            end;
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_766, b_766, c_766)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_766, b_766, c_766)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+        end, function(p1_23, a_23, b_23, c_23)
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_164, b_164, c_164)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+        xpcall(function(a_472, b_472, c_472, ...)
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 102 (1:1)
+            end;
+
+            local v1565, v1566 = pcall(v11, game, "RunService");
+            local v1568, v1569 = pcall(v11, game, "Workspace");
+
+            if not v1565 or (not v1568) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 103 (1:1)
+            end;
+
+            local success_33, v1590, v1591 = pcall(function(a_482, b_482, c_482)
+                local v1588 = v12:IsClient();
+                local v1589 = v12:IsServer();
+
+                return v1588, v1589;
+            end);
+
+            if not success_33 or ((type(v1588) ~= "boolean")) or ((type(v1589) ~= "boolean")) or ((v1588 == v1589)) then -- ran, if id: 104 (1:1)
+            end;
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_766, b_766, c_766)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+        end, function(p1_23, a_23, b_23, c_23)
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_164, b_164, c_164)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+
+        if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 36 (1:1)
+        end;
+
+        local v576, v577 = pcall(v11, game, "RunService");
+        local v579, v580 = pcall(v11, game, "Workspace");
+
+        if not v576 or (not v579) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 37 (1:1)
+        end;
+
+        local success_11, v601, v602 = pcall(function(a_174, b_174, c_174)
+            local v599 = v12:IsClient();
+            local v600 = v12:IsServer();
+
+            return v599, v600;
+        end);
+
+        if not success_11 or ((type(v599) ~= "boolean")) or ((type(v600) ~= "boolean")) or ((v599 == v600)) then -- ran, if id: 38 (1:1)
+        end;
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_486, b_486, c_486)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_486, b_486, c_486)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_486, b_486, c_486)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_486, b_486, c_486)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+    end, function(p1_23, a_23, b_23, c_23)
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_164, b_164, c_164)
+            return "FlowObf Error";
+        end);
+
+        return "FlowObf Error";
+    end);
+    xpcall(function(a_178, b_178, c_178, ...)
+        xpcall(function(a_486, b_486, c_486, ...)
+            xpcall(function(a_766, b_766, c_766, ...)
+                if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 165 (1:1)
+                end;
+
+                local v2484, v2485 = pcall(v11, game, "RunService");
+                local v2487, v2488 = pcall(v11, game, "Workspace");
+
+                if not v2484 or (not v2487) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 166 (1:1)
+                end;
+
+                local success_54, v2509, v2510 = pcall(function(a_776, b_776, c_776)
+                    local v2507 = v12:IsClient();
+                    local v2508 = v12:IsServer();
+
+                    return v2507, v2508;
+                end);
+
+                if not success_54 or ((type(v2507) ~= "boolean")) or ((type(v2508) ~= "boolean")) or ((v2507 == v2508)) then -- ran, if id: 167 (1:1)
+                end;
+
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_878, b_878, c_878)
+                    return "FlowObf Error";
+                end);
+
+                error("FlowObf Error", 0);
+            end, function(p1_23, a_23, b_23, c_23)
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_164, b_164, c_164)
+                    return "FlowObf Error";
+                end);
+
+                return "FlowObf Error";
+            end);
+
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 105 (1:1)
+            end;
+
+            local v1609, v1610 = pcall(v11, game, "RunService");
+            local v1612, v1613 = pcall(v11, game, "Workspace");
+
+            if not v1609 or (not v1612) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 106 (1:1)
+            end;
+
+            local success_34, v1634, v1635 = pcall(function(a_496, b_496, c_496)
+                local v1632 = v12:IsClient();
+                local v1633 = v12:IsServer();
+
+                return v1632, v1633;
+            end);
+
+            if not success_34 or ((type(v1632) ~= "boolean")) or ((type(v1633) ~= "boolean")) or ((v1632 == v1633)) then -- ran, if id: 107 (1:1)
+            end;
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_780, b_780, c_780)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_780, b_780, c_780)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+        end, function(p1_23, a_23, b_23, c_23)
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_164, b_164, c_164)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+        xpcall(function(a_500, b_500, c_500, ...)
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 108 (1:1)
+            end;
+
+            local v1653, v1654 = pcall(v11, game, "RunService");
+            local v1656, v1657 = pcall(v11, game, "Workspace");
+
+            if not v1653 or (not v1656) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 109 (1:1)
+            end;
+
+            local success_35, v1678, v1679 = pcall(function(a_510, b_510, c_510)
+                local v1676 = v12:IsClient();
+                local v1677 = v12:IsServer();
+
+                return v1676, v1677;
+            end);
+
+            if not success_35 or ((type(v1676) ~= "boolean")) or ((type(v1677) ~= "boolean")) or ((v1676 == v1677)) then -- ran, if id: 110 (1:1)
+            end;
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_780, b_780, c_780)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+        end, function(p1_23, a_23, b_23, c_23)
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_164, b_164, c_164)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+
+        if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 39 (1:1)
+        end;
+
+        local v624, v625 = pcall(v11, game, "RunService");
+        local v627, v628 = pcall(v11, game, "Workspace");
+
+        if not v624 or (not v627) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 40 (1:1)
+        end;
+
+        local success_12, v649, v650 = pcall(function(a_188, b_188, c_188)
+            local v647 = v12:IsClient();
+            local v648 = v12:IsServer();
+
+            return v647, v648;
+        end);
+
+        if not success_12 or ((type(v647) ~= "boolean")) or ((type(v648) ~= "boolean")) or ((v647 == v648)) then -- ran, if id: 41 (1:1)
+        end;
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_514, b_514, c_514)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_514, b_514, c_514)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_514, b_514, c_514)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+    end, function(p1_23, a_23, b_23, c_23)
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_164, b_164, c_164)
+            return "FlowObf Error";
+        end);
+
+        return "FlowObf Error";
+    end);
+    xpcall(function(a_192, b_192, c_192, ...)
+        xpcall(function(a_514, b_514, c_514, ...)
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 111 (1:1)
+            end;
+
+            local v1696, v1697 = pcall(v11, game, "RunService");
+            local v1699, v1700 = pcall(v11, game, "Workspace");
+
+            if not v1696 or (not v1699) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 112 (1:1)
+            end;
+
+            local success_36, v1721, v1722 = pcall(function(a_524, b_524, c_524)
+                local v1719 = v12:IsClient();
+                local v1720 = v12:IsServer();
+
+                return v1719, v1720;
+            end);
+
+            if not success_36 or ((type(v1719) ~= "boolean")) or ((type(v1720) ~= "boolean")) or ((v1719 == v1720)) then -- ran, if id: 113 (1:1)
+            end;
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_780, b_780, c_780)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+        end, function(p1_23, a_23, b_23, c_23)
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_164, b_164, c_164)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+
+        if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 42 (1:1)
+        end;
+
+        local v670, v671 = pcall(v11, game, "RunService");
+        local v673, v674 = pcall(v11, game, "Workspace");
+
+        if not v670 or (not v673) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 43 (1:1)
+        end;
+
+        local success_13, v695, v696 = pcall(function(a_202, b_202, c_202)
+            local v693 = v12:IsClient();
+            local v694 = v12:IsServer();
+
+            return v693, v694;
+        end);
+
+        if not success_13 or ((type(v693) ~= "boolean")) or ((type(v694) ~= "boolean")) or ((v693 == v694)) then -- ran, if id: 44 (1:1)
+        end;
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_528, b_528, c_528)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_528, b_528, c_528)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+    end, function(p1_23, a_23, b_23, c_23)
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_164, b_164, c_164)
+            return "FlowObf Error";
+        end);
+
+        return "FlowObf Error";
+    end);
+    xpcall(function(a_206, b_206, c_206, ...)
+        if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 45 (1:1)
+        end;
+
+        local v714, v715 = pcall(v11, game, "RunService");
+        local v717, v718 = pcall(v11, game, "Workspace");
+
+        if not v714 or (not v717) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 46 (1:1)
+        end;
+
+        local success_14, v739, v740 = pcall(function(a_216, b_216, c_216)
+            local v737 = v12:IsClient();
+            local v738 = v12:IsServer();
+
+            return v737, v738;
+        end);
+
+        if not success_14 or ((type(v737) ~= "boolean")) or ((type(v738) ~= "boolean")) or ((v737 == v738)) then -- ran, if id: 47 (1:1)
+        end;
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_528, b_528, c_528)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+    end, function(p1_23, a_23, b_23, c_23)
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_164, b_164, c_164)
+            return "FlowObf Error";
+        end);
+
+        return "FlowObf Error";
+    end);
+
+    if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 6 (1:1)
+    end;
+
+    local v107, v108 = pcall(v11, game, "RunService");
+    local v110, v111 = pcall(v11, game, "Workspace");
+
+    if not v107 or (not v110) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 7 (1:1)
+    end;
+
+    local success_1, v132, v133 = pcall(function(a_34, b_34, c_34)
+        local v130 = v12:IsClient();
+        local v131 = v12:IsServer();
+
+        return v130, v131;
+    end);
+
+    if not success_1 or ((type(v130) ~= "boolean")) or ((type(v131) ~= "boolean")) or ((v130 == v131)) then -- ran, if id: 8 (1:1)
+    end;
+
+    xpcall(function(a_94, b_94, c_94)
+        return "FlowObf Error";
+    end, function(a_220, b_220, c_220)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+
+    xpcall(function(a_94, b_94, c_94)
+        return "FlowObf Error";
+    end, function(a_220, b_220, c_220)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+
+    xpcall(function(a_94, b_94, c_94)
+        return "FlowObf Error";
+    end, function(a_220, b_220, c_220)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+
+    xpcall(function(a_94, b_94, c_94)
+        return "FlowObf Error";
+    end, function(a_220, b_220, c_220)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+
+    xpcall(function(a_94, b_94, c_94)
+        return "FlowObf Error";
+    end, function(a_220, b_220, c_220)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+end, function(p1_23, a_23, b_23, c_23)
+    xpcall(function(a_94, b_94, c_94)
+        return "FlowObf Error";
+    end, function(a_164, b_164, c_164)
+        return "FlowObf Error";
+    end);
+
+    return "FlowObf Error";
+end);
+xpcall(function(a_38, b_38, c_38, ...)
+    xpcall(function(a_220, b_220, c_220, ...)
+        xpcall(function(a_528, b_528, c_528, ...)
+            xpcall(function(a_780, b_780, c_780, ...)
+                if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 168 (1:1)
+                end;
+
+                local v2527, v2528 = pcall(v11, game, "RunService");
+                local v2530, v2531 = pcall(v11, game, "Workspace");
+
+                if not v2527 or (not v2530) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 169 (1:1)
+                end;
+
+                local success_55, v2552, v2553 = pcall(function(a_790, b_790, c_790)
+                    local v2550 = v12:IsClient();
+                    local v2551 = v12:IsServer();
+
+                    return v2550, v2551;
+                end);
+
+                if not success_55 or ((type(v2550) ~= "boolean")) or ((type(v2551) ~= "boolean")) or ((v2550 == v2551)) then -- ran, if id: 170 (1:1)
+                end;
+
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_878, b_878, c_878)
+                    return "FlowObf Error";
+                end);
+
+                error("FlowObf Error", 0);
+            end, function(p1_23, a_23, b_23, c_23)
+                xpcall(function(a_94, b_94, c_94)
+                    return "FlowObf Error";
+                end, function(a_164, b_164, c_164)
+                    return "FlowObf Error";
+                end);
+
+                return "FlowObf Error";
+            end);
+
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 114 (1:1)
+            end;
+
+            local v1740, v1741 = pcall(v11, game, "RunService");
+            local v1743, v1744 = pcall(v11, game, "Workspace");
+
+            if not v1740 or (not v1743) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 115 (1:1)
+            end;
+
+            local success_37, v1765, v1766 = pcall(function(a_538, b_538, c_538)
+                local v1763 = v12:IsClient();
+                local v1764 = v12:IsServer();
+
+                return v1763, v1764;
+            end);
+
+            if not success_37 or ((type(v1763) ~= "boolean")) or ((type(v1764) ~= "boolean")) or ((v1763 == v1764)) then -- ran, if id: 116 (1:1)
+            end;
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_794, b_794, c_794)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_794, b_794, c_794)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+        end, function(p1_23, a_23, b_23, c_23)
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_164, b_164, c_164)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+        xpcall(function(a_542, b_542, c_542, ...)
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 117 (1:1)
+            end;
+
+            local v1784, v1785 = pcall(v11, game, "RunService");
+            local v1787, v1788 = pcall(v11, game, "Workspace");
+
+            if not v1784 or (not v1787) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 118 (1:1)
+            end;
+
+            local success_38, v1809, v1810 = pcall(function(a_552, b_552, c_552)
+                local v1807 = v12:IsClient();
+                local v1808 = v12:IsServer();
+
+                return v1807, v1808;
+            end);
+
+            if not success_38 or ((type(v1807) ~= "boolean")) or ((type(v1808) ~= "boolean")) or ((v1807 == v1808)) then -- ran, if id: 119 (1:1)
+            end;
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_794, b_794, c_794)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+        end, function(p1_23, a_23, b_23, c_23)
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_164, b_164, c_164)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+
+        if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 48 (1:1)
+        end;
+
+        local v759, v760 = pcall(v11, game, "RunService");
+        local v762, v763 = pcall(v11, game, "Workspace");
+
+        if not v759 or (not v762) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 49 (1:1)
+        end;
+
+        local success_15, v784, v785 = pcall(function(a_230, b_230, c_230)
+            local v782 = v12:IsClient();
+            local v783 = v12:IsServer();
+
+            return v782, v783;
+        end);
+
+        if not success_15 or ((type(v782) ~= "boolean")) or ((type(v783) ~= "boolean")) or ((v782 == v783)) then -- ran, if id: 50 (1:1)
+        end;
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_556, b_556, c_556)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_556, b_556, c_556)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_556, b_556, c_556)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+    end, function(p1_23, a_23, b_23, c_23)
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_164, b_164, c_164)
+            return "FlowObf Error";
+        end);
+
+        return "FlowObf Error";
+    end);
+    xpcall(function(a_234, b_234, c_234, ...)
+        xpcall(function(a_556, b_556, c_556, ...)
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 120 (1:1)
+            end;
+
+            local v1827, v1828 = pcall(v11, game, "RunService");
+            local v1830, v1831 = pcall(v11, game, "Workspace");
+
+            if not v1827 or (not v1830) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 121 (1:1)
+            end;
+
+            local success_39, v1852, v1853 = pcall(function(a_566, b_566, c_566)
+                local v1850 = v12:IsClient();
+                local v1851 = v12:IsServer();
+
+                return v1850, v1851;
+            end);
+
+            if not success_39 or ((type(v1850) ~= "boolean")) or ((type(v1851) ~= "boolean")) or ((v1850 == v1851)) then -- ran, if id: 122 (1:1)
+            end;
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_794, b_794, c_794)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+        end, function(p1_23, a_23, b_23, c_23)
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_164, b_164, c_164)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+
+        if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 51 (1:1)
+        end;
+
+        local v805, v806 = pcall(v11, game, "RunService");
+        local v808, v809 = pcall(v11, game, "Workspace");
+
+        if not v805 or (not v808) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 52 (1:1)
+        end;
+
+        local success_16, v830, v831 = pcall(function(a_244, b_244, c_244)
+            local v828 = v12:IsClient();
+            local v829 = v12:IsServer();
+
+            return v828, v829;
+        end);
+
+        if not success_16 or ((type(v828) ~= "boolean")) or ((type(v829) ~= "boolean")) or ((v828 == v829)) then -- ran, if id: 53 (1:1)
+        end;
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_570, b_570, c_570)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_570, b_570, c_570)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+    end, function(p1_23, a_23, b_23, c_23)
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_164, b_164, c_164)
+            return "FlowObf Error";
+        end);
+
+        return "FlowObf Error";
+    end);
+    xpcall(function(a_248, b_248, c_248, ...)
+        if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 54 (1:1)
+        end;
+
+        local v849, v850 = pcall(v11, game, "RunService");
+        local v852, v853 = pcall(v11, game, "Workspace");
+
+        if not v849 or (not v852) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 55 (1:1)
+        end;
+
+        local success_17, v874, v875 = pcall(function(a_258, b_258, c_258)
+            local v872 = v12:IsClient();
+            local v873 = v12:IsServer();
+
+            return v872, v873;
+        end);
+
+        if not success_17 or ((type(v872) ~= "boolean")) or ((type(v873) ~= "boolean")) or ((v872 == v873)) then -- ran, if id: 56 (1:1)
+        end;
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_570, b_570, c_570)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+    end, function(p1_23, a_23, b_23, c_23)
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_164, b_164, c_164)
+            return "FlowObf Error";
+        end);
+
+        return "FlowObf Error";
+    end);
+
+    if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 9 (1:1)
+    end;
+
+    local v157, v158 = pcall(v11, game, "RunService");
+    local v160, v161 = pcall(v11, game, "Workspace");
+
+    if not v157 or (not v160) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 10 (1:1)
+    end;
+
+    local success_2, v182, v183 = pcall(function(a_48, b_48, c_48)
+        local v180 = v12:IsClient();
+        local v181 = v12:IsServer();
+
+        return v180, v181;
+    end);
+
+    if not success_2 or ((type(v180) ~= "boolean")) or ((type(v181) ~= "boolean")) or ((v180 == v181)) then -- ran, if id: 11 (1:1)
+    end;
+
+    xpcall(function(a_94, b_94, c_94)
+        return "FlowObf Error";
+    end, function(a_262, b_262, c_262)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+
+    xpcall(function(a_94, b_94, c_94)
+        return "FlowObf Error";
+    end, function(a_262, b_262, c_262)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+
+    xpcall(function(a_94, b_94, c_94)
+        return "FlowObf Error";
+    end, function(a_262, b_262, c_262)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+
+    xpcall(function(a_94, b_94, c_94)
+        return "FlowObf Error";
+    end, function(a_262, b_262, c_262)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+end, function(p1_23, a_23, b_23, c_23)
+    xpcall(function(a_94, b_94, c_94)
+        return "FlowObf Error";
+    end, function(a_164, b_164, c_164)
+        return "FlowObf Error";
+    end);
+
+    return "FlowObf Error";
+end);
+xpcall(function(a_52, b_52, c_52, ...)
+    xpcall(function(a_262, b_262, c_262, ...)
+        xpcall(function(a_570, b_570, c_570, ...)
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 123 (1:1)
+            end;
+
+            local v1870, v1871 = pcall(v11, game, "RunService");
+            local v1873, v1874 = pcall(v11, game, "Workspace");
+
+            if not v1870 or (not v1873) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 124 (1:1)
+            end;
+
+            local success_40, v1895, v1896 = pcall(function(a_580, b_580, c_580)
+                local v1893 = v12:IsClient();
+                local v1894 = v12:IsServer();
+
+                return v1893, v1894;
+            end);
+
+            if not success_40 or ((type(v1893) ~= "boolean")) or ((type(v1894) ~= "boolean")) or ((v1893 == v1894)) then -- ran, if id: 125 (1:1)
+            end;
+
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_794, b_794, c_794)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+        end, function(p1_23, a_23, b_23, c_23)
+            xpcall(function(a_94, b_94, c_94)
+                return "FlowObf Error";
+            end, function(a_164, b_164, c_164)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+
+        if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 57 (1:1)
+        end;
+
+        local v893, v894 = pcall(v11, game, "RunService");
+        local v896, v897 = pcall(v11, game, "Workspace");
+
+        if not v893 or (not v896) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 58 (1:1)
+        end;
+
+        local success_18, v918, v919 = pcall(function(a_272, b_272, c_272)
+            local v916 = v12:IsClient();
+            local v917 = v12:IsServer();
+
+            return v916, v917;
+        end);
+
+        if not success_18 or ((type(v916) ~= "boolean")) or ((type(v917) ~= "boolean")) or ((v916 == v917)) then -- ran, if id: 59 (1:1)
+        end;
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_584, b_584, c_584)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_584, b_584, c_584)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+    end, function(p1_23, a_23, b_23, c_23)
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_164, b_164, c_164)
+            return "FlowObf Error";
+        end);
+
+        return "FlowObf Error";
+    end);
+    xpcall(function(a_276, b_276, c_276, ...)
+        if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 60 (1:1)
+        end;
+
+        local v937, v938 = pcall(v11, game, "RunService");
+        local v940, v941 = pcall(v11, game, "Workspace");
+
+        if not v937 or (not v940) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 61 (1:1)
+        end;
+
+        local success_19, v962, v963 = pcall(function(a_286, b_286, c_286)
+            local v960 = v12:IsClient();
+            local v961 = v12:IsServer();
+
+            return v960, v961;
+        end);
+
+        if not success_19 or ((type(v960) ~= "boolean")) or ((type(v961) ~= "boolean")) or ((v960 == v961)) then -- ran, if id: 62 (1:1)
+        end;
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_584, b_584, c_584)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+    end, function(p1_23, a_23, b_23, c_23)
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_164, b_164, c_164)
+            return "FlowObf Error";
+        end);
+
+        return "FlowObf Error";
+    end);
+
+    if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 12 (1:1)
+    end;
+
+    local v205, v206 = pcall(v11, game, "RunService");
+    local v208, v209 = pcall(v11, game, "Workspace");
+
+    if not v205 or (not v208) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 13 (1:1)
+    end;
+
+    local success_3, v230, v231 = pcall(function(a_62, b_62, c_62)
+        local v228 = v12:IsClient();
+        local v229 = v12:IsServer();
+
+        return v228, v229;
+    end);
+
+    if not success_3 or ((type(v228) ~= "boolean")) or ((type(v229) ~= "boolean")) or ((v228 == v229)) then -- ran, if id: 14 (1:1)
+    end;
+
+    xpcall(function(a_94, b_94, c_94)
+        return "FlowObf Error";
+    end, function(a_290, b_290, c_290)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+
+    xpcall(function(a_94, b_94, c_94)
+        return "FlowObf Error";
+    end, function(a_290, b_290, c_290)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+
+    xpcall(function(a_94, b_94, c_94)
+        return "FlowObf Error";
+    end, function(a_290, b_290, c_290)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+end, function(p1_23, a_23, b_23, c_23)
+    xpcall(function(a_94, b_94, c_94)
+        return "FlowObf Error";
+    end, function(a_164, b_164, c_164)
+        return "FlowObf Error";
+    end);
+
+    return "FlowObf Error";
+end);
+xpcall(function(a_66, b_66, c_66, ...)
+    xpcall(function(a_290, b_290, c_290, ...)
+        if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 63 (1:1)
+        end;
+
+        local v980, v981 = pcall(v11, game, "RunService");
+        local v983, v984 = pcall(v11, game, "Workspace");
+
+        if not v980 or (not v983) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 64 (1:1)
+        end;
+
+        local success_20, v1005, v1006 = pcall(function(a_300, b_300, c_300)
+            local v1003 = v12:IsClient();
+            local v1004 = v12:IsServer();
+
+            return v1003, v1004;
+        end);
+
+        if not success_20 or ((type(v1003) ~= "boolean")) or ((type(v1004) ~= "boolean")) or ((v1003 == v1004)) then -- ran, if id: 65 (1:1)
+        end;
+
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_584, b_584, c_584)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+    end, function(p1_23, a_23, b_23, c_23)
+        xpcall(function(a_94, b_94, c_94)
+            return "FlowObf Error";
+        end, function(a_164, b_164, c_164)
+            return "FlowObf Error";
+        end);
+
+        return "FlowObf Error";
+    end);
+
+    if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 15 (1:1)
+    end;
+
+    local v251, v252 = pcall(v11, game, "RunService");
+    local v254, v255 = pcall(v11, game, "Workspace");
+
+    if not v251 or (not v254) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 16 (1:1)
+    end;
+
+    local success_4, v276, v277 = pcall(function(a_76, b_76, c_76)
+        local v274 = v12:IsClient();
+        local v275 = v12:IsServer();
+
+        return v274, v275;
+    end);
+
+    if not success_4 or ((type(v274) ~= "boolean")) or ((type(v275) ~= "boolean")) or ((v274 == v275)) then -- ran, if id: 17 (1:1)
+    end;
+
+    xpcall(function(a_94, b_94, c_94)
+        return "FlowObf Error";
+    end, function(a_304, b_304, c_304)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+
+    xpcall(function(a_94, b_94, c_94)
+        return "FlowObf Error";
+    end, function(a_304, b_304, c_304)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+end, function(p1_23, a_23, b_23, c_23)
+    xpcall(function(a_94, b_94, c_94)
+        return "FlowObf Error";
+    end, function(a_164, b_164, c_164)
+        return "FlowObf Error";
+    end);
+
+    return "FlowObf Error";
+end);
+xpcall(function(a_80, b_80, c_80, ...)
+    if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 18 (1:1)
+    end;
+
+    local v295, v296 = pcall(v11, game, "RunService");
+    local v298, v299 = pcall(v11, game, "Workspace");
+
+    if not v295 or (not v298) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 19 (1:1)
+    end;
+
+    local success_5, v320, v321 = pcall(function(a_90, b_90, c_90)
+        local v318 = v12:IsClient();
+        local v319 = v12:IsServer();
+
+        return v318, v319;
+    end);
+
+    if not success_5 or ((type(v318) ~= "boolean")) or ((type(v319) ~= "boolean")) or ((v318 == v319)) then -- ran, if id: 20 (1:1)
+    end;
+
+    xpcall(function(a_94, b_94, c_94)
+        return "FlowObf Error";
+    end, function(a_304, b_304, c_304)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+end, function(p1_23, a_23, b_23, c_23)
+    xpcall(function(a_94, b_94, c_94)
+        return "FlowObf Error";
+    end, function(a_164, b_164, c_164)
+        return "FlowObf Error";
+    end);
+
+    return "FlowObf Error";
+end);
+
+if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 1 (1:1)
+end;
+
+local v11 = game.GetService;
+
+game:GetService("RunService");
+local v14 = game:GetService("Workspace");
+
+if not pcall(v11, game, "RunService") or (not pcall(v11, game, "Workspace")) or ((typeof(v12) ~= "Instance")) or ((v12.ClassName ~= "RunService")) or ((typeof(v14) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(v14, workspace)) then -- ran, if id: 2 (1:1)
+end;
+
+xpcall(function(a_94, b_94, c_94)
+    return "FlowObf Error";
+end, function(a_94, b_94, c_94)
+    return "FlowObf Error";
+end);
+
+error("FlowObf Error", 0);
+
+xpcall(function(a_94, b_94, c_94)
+    return "FlowObf Error";
+end, function(a_94, b_94, c_94)
+    return "FlowObf Error";
+end);
+
+error("FlowObf Error", 0);
+
+xpcall(function(a_94, b_94, c_94)
+    return "FlowObf Error";
+end, function(a_94, b_94, c_94)
+    return "FlowObf Error";
+end);
+
+error("FlowObf Error", 0);
+
+xpcall(function(a_94, b_94, c_94)
+    return "FlowObf Error";
+end, function(a_94, b_94, c_94)
+    return "FlowObf Error";
+end);
+
+error("FlowObf Error", 0);
+
+xpcall(function(a_94, b_94, c_94)
+    return "FlowObf Error";
+end, function(a_94, b_94, c_94)
+    return "FlowObf Error";
+end);
+
+error("FlowObf Error", 0);
+
+xpcall(function(a_94, b_94, c_94)
+    return "FlowObf Error";
+end, function(a_94, b_94, c_94)
+    return "FlowObf Error";
+end);
+
+error("FlowObf Error", 0);
+
+xpcall(function(a_94, b_94, c_94)
+    return "FlowObf Error";
+end, function(a_94, b_94, c_94)
+    return "FlowObf Error";
+end);
+
+error("FlowObf Error", 0);
