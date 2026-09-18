@@ -1,0 +1,2961 @@
+-- This file was generated with UnveilR V3.2 at discord.gg/threaded using the testing version.
+
+local v14, v91, v11, v12;
+xpcall(function(a_7, b_7, c_7, ...)
+    xpcall(function(a_68, b_68, c_68, ...)
+        xpcall(function(a_218, b_218, c_218, ...)
+            xpcall(function(a_418, b_418, c_418, ...)
+                xpcall(function(a_568, b_568, c_568, ...)
+                    xpcall(function(a_628, b_628, c_628, ...)
+                        if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 313 (1:1)
+                        end;
+
+                        local v3322, v3323 = pcall(v11, game, "RunService");
+                        local v3325, v3326 = pcall(v11, game, "Workspace");
+
+                        if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 314 (1:1)
+                        end;
+
+                        local success_62, v3343, v3344 = pcall(function(a_636, b_636, c_636)
+                            return v12:IsClient(), v12:IsServer();
+                        end);
+
+                        if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 315 (1:1)
+                        end;
+
+                        local v3356, v3357 = pcall(buffer.create, 16);
+
+                        if (typeof(
+                            buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+                        ) ~= "buffer") or (false) then -- didnt run, if id: 316 (1:1)
+                        end;
+
+                        if (type(Random) ~= "table") or (false) then -- didnt run, if id: 317 (1:1)
+                        end;
+
+                        v91();
+
+                        --[1:1] The script errored here with the message: "invalid argument #1 to 'new' (number expected, got nil)"
+                    end, function(p1_17, a_17, b_17, c_17)
+                        xpcall(function(a_68, b_68, c_68)
+                            return "FlowObf Error";
+                        end, function(a_118, b_118, c_118)
+                            return "FlowObf Error";
+                        end);
+
+                        return "FlowObf Error";
+                    end);
+
+                    if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 283 (1:1)
+                    end;
+
+                    local v3015, v3016 = pcall(v11, game, "RunService");
+                    local v3018, v3019 = pcall(v11, game, "Workspace");
+
+                    if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 284 (1:1)
+                    end;
+
+                    local success_56, v3036, v3037 = pcall(function(a_576, b_576, c_576)
+                        return v12:IsClient(), v12:IsServer();
+                    end);
+
+                    if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 285 (1:1)
+                    end;
+
+                    local v3049, v3050 = pcall(buffer.create, 16);
+
+                    if (typeof(
+                        buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+                    ) ~= "buffer") or (false) then -- didnt run, if id: 286 (1:1)
+                    end;
+
+                    if (type(Random) ~= "table") or (false) then -- didnt run, if id: 287 (1:1)
+                    end;
+
+                    v91();
+
+                    xpcall(function(a_68, b_68, c_68)
+                        return "FlowObf Error";
+                    end, function(a_638, b_638, c_638)
+                        return "FlowObf Error";
+                    end);
+
+                    error("FlowObf Error", 0);
+                end, function(p1_17, a_17, b_17, c_17)
+                    xpcall(function(a_68, b_68, c_68)
+                        return "FlowObf Error";
+                    end, function(a_118, b_118, c_118)
+                        return "FlowObf Error";
+                    end);
+
+                    return "FlowObf Error";
+                end);
+                xpcall(function(a_578, b_578, c_578, ...)
+                    if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 288 (1:1)
+                    end;
+
+                    local v3067, v3068 = pcall(v11, game, "RunService");
+                    local v3070, v3071 = pcall(v11, game, "Workspace");
+
+                    if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 289 (1:1)
+                    end;
+
+                    local success_57, v3088, v3089 = pcall(function(a_586, b_586, c_586)
+                        return v12:IsClient(), v12:IsServer();
+                    end);
+
+                    if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 290 (1:1)
+                    end;
+
+                    local v3101, v3102 = pcall(buffer.create, 16);
+
+                    if (typeof(
+                        buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+                    ) ~= "buffer") or (false) then -- didnt run, if id: 291 (1:1)
+                    end;
+
+                    if (type(Random) ~= "table") or (false) then -- didnt run, if id: 292 (1:1)
+                    end;
+
+                    v91();
+
+                    --[1:1] The script errored here with the message: "invalid argument #1 to 'new' (number expected, got nil)"
+                end, function(p1_17, a_17, b_17, c_17)
+                    xpcall(function(a_68, b_68, c_68)
+                        return "FlowObf Error";
+                    end, function(a_118, b_118, c_118)
+                        return "FlowObf Error";
+                    end);
+
+                    return "FlowObf Error";
+                end);
+
+                if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 208 (1:1)
+                end;
+
+                local v2239, v2240 = pcall(v11, game, "RunService");
+                local v2242, v2243 = pcall(v11, game, "Workspace");
+
+                if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 209 (1:1)
+                end;
+
+                local success_41, v2260, v2261 = pcall(function(a_426, b_426, c_426)
+                    return v12:IsClient(), v12:IsServer();
+                end);
+
+                if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 210 (1:1)
+                end;
+
+                local v2273, v2274 = pcall(buffer.create, 16);
+
+                if (typeof(
+                    buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+                ) ~= "buffer") or (false) then -- didnt run, if id: 211 (1:1)
+                end;
+
+                if (type(Random) ~= "table") or (false) then -- didnt run, if id: 212 (1:1)
+                end;
+
+                v91();
+
+                xpcall(function(a_68, b_68, c_68)
+                    return "FlowObf Error";
+                end, function(a_588, b_588, c_588)
+                    return "FlowObf Error";
+                end);
+
+                error("FlowObf Error", 0);
+
+                xpcall(function(a_68, b_68, c_68)
+                    return "FlowObf Error";
+                end, function(a_588, b_588, c_588)
+                    return "FlowObf Error";
+                end);
+
+                error("FlowObf Error", 0);
+            end, function(p1_17, a_17, b_17, c_17)
+                xpcall(function(a_68, b_68, c_68)
+                    return "FlowObf Error";
+                end, function(a_118, b_118, c_118)
+                    return "FlowObf Error";
+                end);
+
+                return "FlowObf Error";
+            end);
+            xpcall(function(a_428, b_428, c_428, ...)
+                xpcall(function(a_588, b_588, c_588, ...)
+                    if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 293 (1:1)
+                    end;
+
+                    local v3118, v3119 = pcall(v11, game, "RunService");
+                    local v3121, v3122 = pcall(v11, game, "Workspace");
+
+                    if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 294 (1:1)
+                    end;
+
+                    local success_58, v3139, v3140 = pcall(function(a_596, b_596, c_596)
+                        return v12:IsClient(), v12:IsServer();
+                    end);
+
+                    if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 295 (1:1)
+                    end;
+
+                    local v3152, v3153 = pcall(buffer.create, 16);
+
+                    if (typeof(
+                        buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+                    ) ~= "buffer") or (false) then -- didnt run, if id: 296 (1:1)
+                    end;
+
+                    if (type(Random) ~= "table") or (false) then -- didnt run, if id: 297 (1:1)
+                    end;
+
+                    v91();
+
+                    --[1:1] The script errored here with the message: "invalid argument #1 to 'new' (number expected, got nil)"
+                end, function(p1_17, a_17, b_17, c_17)
+                    xpcall(function(a_68, b_68, c_68)
+                        return "FlowObf Error";
+                    end, function(a_118, b_118, c_118)
+                        return "FlowObf Error";
+                    end);
+
+                    return "FlowObf Error";
+                end);
+
+                if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 213 (1:1)
+                end;
+
+                local v2293, v2294 = pcall(v11, game, "RunService");
+                local v2296, v2297 = pcall(v11, game, "Workspace");
+
+                if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 214 (1:1)
+                end;
+
+                local success_42, v2314, v2315 = pcall(function(a_436, b_436, c_436)
+                    return v12:IsClient(), v12:IsServer();
+                end);
+
+                if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 215 (1:1)
+                end;
+
+                local v2327, v2328 = pcall(buffer.create, 16);
+
+                if (typeof(
+                    buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+                ) ~= "buffer") or (false) then -- didnt run, if id: 216 (1:1)
+                end;
+
+                if (type(Random) ~= "table") or (false) then -- didnt run, if id: 217 (1:1)
+                end;
+
+                v91();
+
+                xpcall(function(a_68, b_68, c_68)
+                    return "FlowObf Error";
+                end, function(a_598, b_598, c_598)
+                    return "FlowObf Error";
+                end);
+
+                error("FlowObf Error", 0);
+            end, function(p1_17, a_17, b_17, c_17)
+                xpcall(function(a_68, b_68, c_68)
+                    return "FlowObf Error";
+                end, function(a_118, b_118, c_118)
+                    return "FlowObf Error";
+                end);
+
+                return "FlowObf Error";
+            end);
+            xpcall(function(a_438, b_438, c_438, ...)
+                if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 218 (1:1)
+                end;
+
+                local v2345, v2346 = pcall(v11, game, "RunService");
+                local v2348, v2349 = pcall(v11, game, "Workspace");
+
+                if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 219 (1:1)
+                end;
+
+                local success_43, v2366, v2367 = pcall(function(a_446, b_446, c_446)
+                    return v12:IsClient(), v12:IsServer();
+                end);
+
+                if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 220 (1:1)
+                end;
+
+                local v2379, v2380 = pcall(buffer.create, 16);
+
+                if (typeof(
+                    buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+                ) ~= "buffer") or (false) then -- didnt run, if id: 221 (1:1)
+                end;
+
+                if (type(Random) ~= "table") or (false) then -- didnt run, if id: 222 (1:1)
+                end;
+
+                v91();
+
+                --[1:1] The script errored here with the message: "invalid argument #1 to 'new' (number expected, got nil)"
+            end, function(p1_17, a_17, b_17, c_17)
+                xpcall(function(a_68, b_68, c_68)
+                    return "FlowObf Error";
+                end, function(a_118, b_118, c_118)
+                    return "FlowObf Error";
+                end);
+
+                return "FlowObf Error";
+            end);
+
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 108 (1:1)
+            end;
+
+            local v1190, v1191 = pcall(v11, game, "RunService");
+            local v1193, v1194 = pcall(v11, game, "Workspace");
+
+            if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 109 (1:1)
+            end;
+
+            local success_21, v1211, v1212 = pcall(function(a_226, b_226, c_226)
+                return v12:IsClient(), v12:IsServer();
+            end);
+
+            if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 110 (1:1)
+            end;
+
+            local v1224, v1225 = pcall(buffer.create, 16);
+
+            if (typeof(
+                buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+            ) ~= "buffer") or (false) then -- didnt run, if id: 111 (1:1)
+            end;
+
+            if (type(Random) ~= "table") or (false) then -- didnt run, if id: 112 (1:1)
+            end;
+
+            v91();
+
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_448, b_448, c_448)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_448, b_448, c_448)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_448, b_448, c_448)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+        end, function(p1_17, a_17, b_17, c_17)
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_118, b_118, c_118)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+        xpcall(function(a_228, b_228, c_228, ...)
+            xpcall(function(a_448, b_448, c_448, ...)
+                xpcall(function(a_598, b_598, c_598, ...)
+                    if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 298 (1:1)
+                    end;
+
+                    local v3169, v3170 = pcall(v11, game, "RunService");
+                    local v3172, v3173 = pcall(v11, game, "Workspace");
+
+                    if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 299 (1:1)
+                    end;
+
+                    local success_59, v3190, v3191 = pcall(function(a_606, b_606, c_606)
+                        return v12:IsClient(), v12:IsServer();
+                    end);
+
+                    if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 300 (1:1)
+                    end;
+
+                    local v3203, v3204 = pcall(buffer.create, 16);
+
+                    if (typeof(
+                        buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+                    ) ~= "buffer") or (false) then -- didnt run, if id: 301 (1:1)
+                    end;
+
+                    if (type(Random) ~= "table") or (false) then -- didnt run, if id: 302 (1:1)
+                    end;
+
+                    v91();
+
+                    --[1:1] The script errored here with the message: "invalid argument #1 to 'new' (number expected, got nil)"
+                end, function(p1_17, a_17, b_17, c_17)
+                    xpcall(function(a_68, b_68, c_68)
+                        return "FlowObf Error";
+                    end, function(a_118, b_118, c_118)
+                        return "FlowObf Error";
+                    end);
+
+                    return "FlowObf Error";
+                end);
+
+                if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 223 (1:1)
+                end;
+
+                local v2397, v2398 = pcall(v11, game, "RunService");
+                local v2400, v2401 = pcall(v11, game, "Workspace");
+
+                if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 224 (1:1)
+                end;
+
+                local success_44, v2418, v2419 = pcall(function(a_456, b_456, c_456)
+                    return v12:IsClient(), v12:IsServer();
+                end);
+
+                if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 225 (1:1)
+                end;
+
+                local v2431, v2432 = pcall(buffer.create, 16);
+
+                if (typeof(
+                    buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+                ) ~= "buffer") or (false) then -- didnt run, if id: 226 (1:1)
+                end;
+
+                if (type(Random) ~= "table") or (false) then -- didnt run, if id: 227 (1:1)
+                end;
+
+                v91();
+
+                xpcall(function(a_68, b_68, c_68)
+                    return "FlowObf Error";
+                end, function(a_608, b_608, c_608)
+                    return "FlowObf Error";
+                end);
+
+                error("FlowObf Error", 0);
+            end, function(p1_17, a_17, b_17, c_17)
+                xpcall(function(a_68, b_68, c_68)
+                    return "FlowObf Error";
+                end, function(a_118, b_118, c_118)
+                    return "FlowObf Error";
+                end);
+
+                return "FlowObf Error";
+            end);
+            xpcall(function(a_458, b_458, c_458, ...)
+                if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 228 (1:1)
+                end;
+
+                local v2449, v2450 = pcall(v11, game, "RunService");
+                local v2452, v2453 = pcall(v11, game, "Workspace");
+
+                if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 229 (1:1)
+                end;
+
+                local success_45, v2470, v2471 = pcall(function(a_466, b_466, c_466)
+                    return v12:IsClient(), v12:IsServer();
+                end);
+
+                if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 230 (1:1)
+                end;
+
+                local v2483, v2484 = pcall(buffer.create, 16);
+
+                if (typeof(
+                    buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+                ) ~= "buffer") or (false) then -- didnt run, if id: 231 (1:1)
+                end;
+
+                if (type(Random) ~= "table") or (false) then -- didnt run, if id: 232 (1:1)
+                end;
+
+                v91();
+
+                --[1:1] The script errored here with the message: "invalid argument #1 to 'new' (number expected, got nil)"
+            end, function(p1_17, a_17, b_17, c_17)
+                xpcall(function(a_68, b_68, c_68)
+                    return "FlowObf Error";
+                end, function(a_118, b_118, c_118)
+                    return "FlowObf Error";
+                end);
+
+                return "FlowObf Error";
+            end);
+
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 113 (1:1)
+            end;
+
+            local v1246, v1247 = pcall(v11, game, "RunService");
+            local v1249, v1250 = pcall(v11, game, "Workspace");
+
+            if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 114 (1:1)
+            end;
+
+            local success_22, v1267, v1268 = pcall(function(a_236, b_236, c_236)
+                return v12:IsClient(), v12:IsServer();
+            end);
+
+            if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 115 (1:1)
+            end;
+
+            local v1280, v1281 = pcall(buffer.create, 16);
+
+            if (typeof(
+                buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+            ) ~= "buffer") or (false) then -- didnt run, if id: 116 (1:1)
+            end;
+
+            if (type(Random) ~= "table") or (false) then -- didnt run, if id: 117 (1:1)
+            end;
+
+            v91();
+
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_468, b_468, c_468)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_468, b_468, c_468)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+        end, function(p1_17, a_17, b_17, c_17)
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_118, b_118, c_118)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+        xpcall(function(a_238, b_238, c_238, ...)
+            xpcall(function(a_468, b_468, c_468, ...)
+                if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 233 (1:1)
+                end;
+
+                local v2500, v2501 = pcall(v11, game, "RunService");
+                local v2503, v2504 = pcall(v11, game, "Workspace");
+
+                if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 234 (1:1)
+                end;
+
+                local success_46, v2521, v2522 = pcall(function(a_476, b_476, c_476)
+                    return v12:IsClient(), v12:IsServer();
+                end);
+
+                if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 235 (1:1)
+                end;
+
+                local v2534, v2535 = pcall(buffer.create, 16);
+
+                if (typeof(
+                    buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+                ) ~= "buffer") or (false) then -- didnt run, if id: 236 (1:1)
+                end;
+
+                if (type(Random) ~= "table") or (false) then -- didnt run, if id: 237 (1:1)
+                end;
+
+                v91();
+
+                --[1:1] The script errored here with the message: "invalid argument #1 to 'new' (number expected, got nil)"
+            end, function(p1_17, a_17, b_17, c_17)
+                xpcall(function(a_68, b_68, c_68)
+                    return "FlowObf Error";
+                end, function(a_118, b_118, c_118)
+                    return "FlowObf Error";
+                end);
+
+                return "FlowObf Error";
+            end);
+
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 118 (1:1)
+            end;
+
+            local v1300, v1301 = pcall(v11, game, "RunService");
+            local v1303, v1304 = pcall(v11, game, "Workspace");
+
+            if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 119 (1:1)
+            end;
+
+            local success_23, v1321, v1322 = pcall(function(a_246, b_246, c_246)
+                return v12:IsClient(), v12:IsServer();
+            end);
+
+            if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 120 (1:1)
+            end;
+
+            local v1334, v1335 = pcall(buffer.create, 16);
+
+            if (typeof(
+                buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+            ) ~= "buffer") or (false) then -- didnt run, if id: 121 (1:1)
+            end;
+
+            if (type(Random) ~= "table") or (false) then -- didnt run, if id: 122 (1:1)
+            end;
+
+            v91();
+
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_478, b_478, c_478)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+        end, function(p1_17, a_17, b_17, c_17)
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_118, b_118, c_118)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+        xpcall(function(a_248, b_248, c_248, ...)
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 123 (1:1)
+            end;
+
+            local v1352, v1353 = pcall(v11, game, "RunService");
+            local v1355, v1356 = pcall(v11, game, "Workspace");
+
+            if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 124 (1:1)
+            end;
+
+            local success_24, v1373, v1374 = pcall(function(a_256, b_256, c_256)
+                return v12:IsClient(), v12:IsServer();
+            end);
+
+            if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 125 (1:1)
+            end;
+
+            local v1386, v1387 = pcall(buffer.create, 16);
+
+            if (typeof(
+                buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+            ) ~= "buffer") or (false) then -- didnt run, if id: 126 (1:1)
+            end;
+
+            if (type(Random) ~= "table") or (false) then -- didnt run, if id: 127 (1:1)
+            end;
+
+            v91();
+
+            --[1:1] The script errored here with the message: "invalid argument #1 to 'new' (number expected, got nil)"
+        end, function(p1_17, a_17, b_17, c_17)
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_118, b_118, c_118)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+
+        if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 33 (1:1)
+        end;
+
+        local v386, v387 = pcall(v11, game, "RunService");
+        local v389, v390 = pcall(v11, game, "Workspace");
+
+        if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 34 (1:1)
+        end;
+
+        local success_6, v407, v408 = pcall(function(a_76, b_76, c_76)
+            return v12:IsClient(), v12:IsServer();
+        end);
+
+        if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 35 (1:1)
+        end;
+
+        local v420, v421 = pcall(buffer.create, 16);
+
+        if (typeof(
+            buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+        ) ~= "buffer") or (false) then -- didnt run, if id: 36 (1:1)
+        end;
+
+        if (type(Random) ~= "table") or (false) then -- didnt run, if id: 37 (1:1)
+        end;
+
+        v91();
+
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_258, b_258, c_258)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_258, b_258, c_258)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_258, b_258, c_258)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_258, b_258, c_258)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+    end, function(p1_17, a_17, b_17, c_17)
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_118, b_118, c_118)
+            return "FlowObf Error";
+        end);
+
+        return "FlowObf Error";
+    end);
+    xpcall(function(a_78, b_78, c_78, ...)
+        xpcall(function(a_258, b_258, c_258, ...)
+            xpcall(function(a_478, b_478, c_478, ...)
+                xpcall(function(a_608, b_608, c_608, ...)
+                    if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 303 (1:1)
+                    end;
+
+                    local v3220, v3221 = pcall(v11, game, "RunService");
+                    local v3223, v3224 = pcall(v11, game, "Workspace");
+
+                    if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 304 (1:1)
+                    end;
+
+                    local success_60, v3241, v3242 = pcall(function(a_616, b_616, c_616)
+                        return v12:IsClient(), v12:IsServer();
+                    end);
+
+                    if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 305 (1:1)
+                    end;
+
+                    local v3254, v3255 = pcall(buffer.create, 16);
+
+                    if (typeof(
+                        buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+                    ) ~= "buffer") or (false) then -- didnt run, if id: 306 (1:1)
+                    end;
+
+                    if (type(Random) ~= "table") or (false) then -- didnt run, if id: 307 (1:1)
+                    end;
+
+                    v91();
+
+                    --[1:1] The script errored here with the message: "invalid argument #1 to 'new' (number expected, got nil)"
+                end, function(p1_17, a_17, b_17, c_17)
+                    xpcall(function(a_68, b_68, c_68)
+                        return "FlowObf Error";
+                    end, function(a_118, b_118, c_118)
+                        return "FlowObf Error";
+                    end);
+
+                    return "FlowObf Error";
+                end);
+
+                if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 238 (1:1)
+                end;
+
+                local v2552, v2553 = pcall(v11, game, "RunService");
+                local v2555, v2556 = pcall(v11, game, "Workspace");
+
+                if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 239 (1:1)
+                end;
+
+                local success_47, v2573, v2574 = pcall(function(a_486, b_486, c_486)
+                    return v12:IsClient(), v12:IsServer();
+                end);
+
+                if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 240 (1:1)
+                end;
+
+                local v2586, v2587 = pcall(buffer.create, 16);
+
+                if (typeof(
+                    buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+                ) ~= "buffer") or (false) then -- didnt run, if id: 241 (1:1)
+                end;
+
+                if (type(Random) ~= "table") or (false) then -- didnt run, if id: 242 (1:1)
+                end;
+
+                v91();
+
+                xpcall(function(a_68, b_68, c_68)
+                    return "FlowObf Error";
+                end, function(a_618, b_618, c_618)
+                    return "FlowObf Error";
+                end);
+
+                error("FlowObf Error", 0);
+            end, function(p1_17, a_17, b_17, c_17)
+                xpcall(function(a_68, b_68, c_68)
+                    return "FlowObf Error";
+                end, function(a_118, b_118, c_118)
+                    return "FlowObf Error";
+                end);
+
+                return "FlowObf Error";
+            end);
+            xpcall(function(a_488, b_488, c_488, ...)
+                if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 243 (1:1)
+                end;
+
+                local v2604, v2605 = pcall(v11, game, "RunService");
+                local v2607, v2608 = pcall(v11, game, "Workspace");
+
+                if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 244 (1:1)
+                end;
+
+                local success_48, v2625, v2626 = pcall(function(a_496, b_496, c_496)
+                    return v12:IsClient(), v12:IsServer();
+                end);
+
+                if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 245 (1:1)
+                end;
+
+                local v2638, v2639 = pcall(buffer.create, 16);
+
+                if (typeof(
+                    buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+                ) ~= "buffer") or (false) then -- didnt run, if id: 246 (1:1)
+                end;
+
+                if (type(Random) ~= "table") or (false) then -- didnt run, if id: 247 (1:1)
+                end;
+
+                v91();
+
+                --[1:1] The script errored here with the message: "invalid argument #1 to 'new' (number expected, got nil)"
+            end, function(p1_17, a_17, b_17, c_17)
+                xpcall(function(a_68, b_68, c_68)
+                    return "FlowObf Error";
+                end, function(a_118, b_118, c_118)
+                    return "FlowObf Error";
+                end);
+
+                return "FlowObf Error";
+            end);
+
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 128 (1:1)
+            end;
+
+            local v1405, v1406 = pcall(v11, game, "RunService");
+            local v1408, v1409 = pcall(v11, game, "Workspace");
+
+            if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 129 (1:1)
+            end;
+
+            local success_25, v1426, v1427 = pcall(function(a_266, b_266, c_266)
+                return v12:IsClient(), v12:IsServer();
+            end);
+
+            if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 130 (1:1)
+            end;
+
+            local v1439, v1440 = pcall(buffer.create, 16);
+
+            if (typeof(
+                buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+            ) ~= "buffer") or (false) then -- didnt run, if id: 131 (1:1)
+            end;
+
+            if (type(Random) ~= "table") or (false) then -- didnt run, if id: 132 (1:1)
+            end;
+
+            v91();
+
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_498, b_498, c_498)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_498, b_498, c_498)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+        end, function(p1_17, a_17, b_17, c_17)
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_118, b_118, c_118)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+        xpcall(function(a_268, b_268, c_268, ...)
+            xpcall(function(a_498, b_498, c_498, ...)
+                if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 248 (1:1)
+                end;
+
+                local v2655, v2656 = pcall(v11, game, "RunService");
+                local v2658, v2659 = pcall(v11, game, "Workspace");
+
+                if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 249 (1:1)
+                end;
+
+                local success_49, v2676, v2677 = pcall(function(a_506, b_506, c_506)
+                    return v12:IsClient(), v12:IsServer();
+                end);
+
+                if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 250 (1:1)
+                end;
+
+                local v2689, v2690 = pcall(buffer.create, 16);
+
+                if (typeof(
+                    buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+                ) ~= "buffer") or (false) then -- didnt run, if id: 251 (1:1)
+                end;
+
+                if (type(Random) ~= "table") or (false) then -- didnt run, if id: 252 (1:1)
+                end;
+
+                v91();
+
+                --[1:1] The script errored here with the message: "invalid argument #1 to 'new' (number expected, got nil)"
+            end, function(p1_17, a_17, b_17, c_17)
+                xpcall(function(a_68, b_68, c_68)
+                    return "FlowObf Error";
+                end, function(a_118, b_118, c_118)
+                    return "FlowObf Error";
+                end);
+
+                return "FlowObf Error";
+            end);
+
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 133 (1:1)
+            end;
+
+            local v1459, v1460 = pcall(v11, game, "RunService");
+            local v1462, v1463 = pcall(v11, game, "Workspace");
+
+            if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 134 (1:1)
+            end;
+
+            local success_26, v1480, v1481 = pcall(function(a_276, b_276, c_276)
+                return v12:IsClient(), v12:IsServer();
+            end);
+
+            if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 135 (1:1)
+            end;
+
+            local v1493, v1494 = pcall(buffer.create, 16);
+
+            if (typeof(
+                buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+            ) ~= "buffer") or (false) then -- didnt run, if id: 136 (1:1)
+            end;
+
+            if (type(Random) ~= "table") or (false) then -- didnt run, if id: 137 (1:1)
+            end;
+
+            v91();
+
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_508, b_508, c_508)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+        end, function(p1_17, a_17, b_17, c_17)
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_118, b_118, c_118)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+        xpcall(function(a_278, b_278, c_278, ...)
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 138 (1:1)
+            end;
+
+            local v1511, v1512 = pcall(v11, game, "RunService");
+            local v1514, v1515 = pcall(v11, game, "Workspace");
+
+            if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 139 (1:1)
+            end;
+
+            local success_27, v1532, v1533 = pcall(function(a_286, b_286, c_286)
+                return v12:IsClient(), v12:IsServer();
+            end);
+
+            if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 140 (1:1)
+            end;
+
+            local v1545, v1546 = pcall(buffer.create, 16);
+
+            if (typeof(
+                buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+            ) ~= "buffer") or (false) then -- didnt run, if id: 141 (1:1)
+            end;
+
+            if (type(Random) ~= "table") or (false) then -- didnt run, if id: 142 (1:1)
+            end;
+
+            v91();
+
+            --[1:1] The script errored here with the message: "invalid argument #1 to 'new' (number expected, got nil)"
+        end, function(p1_17, a_17, b_17, c_17)
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_118, b_118, c_118)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+
+        if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 38 (1:1)
+        end;
+
+        local v444, v445 = pcall(v11, game, "RunService");
+        local v447, v448 = pcall(v11, game, "Workspace");
+
+        if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 39 (1:1)
+        end;
+
+        local success_7, v465, v466 = pcall(function(a_86, b_86, c_86)
+            return v12:IsClient(), v12:IsServer();
+        end);
+
+        if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 40 (1:1)
+        end;
+
+        local v478, v479 = pcall(buffer.create, 16);
+
+        if (typeof(
+            buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+        ) ~= "buffer") or (false) then -- didnt run, if id: 41 (1:1)
+        end;
+
+        if (type(Random) ~= "table") or (false) then -- didnt run, if id: 42 (1:1)
+        end;
+
+        v91();
+
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_288, b_288, c_288)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_288, b_288, c_288)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_288, b_288, c_288)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+    end, function(p1_17, a_17, b_17, c_17)
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_118, b_118, c_118)
+            return "FlowObf Error";
+        end);
+
+        return "FlowObf Error";
+    end);
+    xpcall(function(a_88, b_88, c_88, ...)
+        xpcall(function(a_288, b_288, c_288, ...)
+            xpcall(function(a_508, b_508, c_508, ...)
+                if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 253 (1:1)
+                end;
+
+                local v2706, v2707 = pcall(v11, game, "RunService");
+                local v2709, v2710 = pcall(v11, game, "Workspace");
+
+                if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 254 (1:1)
+                end;
+
+                local success_50, v2727, v2728 = pcall(function(a_516, b_516, c_516)
+                    return v12:IsClient(), v12:IsServer();
+                end);
+
+                if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 255 (1:1)
+                end;
+
+                local v2740, v2741 = pcall(buffer.create, 16);
+
+                if (typeof(
+                    buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+                ) ~= "buffer") or (false) then -- didnt run, if id: 256 (1:1)
+                end;
+
+                if (type(Random) ~= "table") or (false) then -- didnt run, if id: 257 (1:1)
+                end;
+
+                v91();
+
+                --[1:1] The script errored here with the message: "invalid argument #1 to 'new' (number expected, got nil)"
+            end, function(p1_17, a_17, b_17, c_17)
+                xpcall(function(a_68, b_68, c_68)
+                    return "FlowObf Error";
+                end, function(a_118, b_118, c_118)
+                    return "FlowObf Error";
+                end);
+
+                return "FlowObf Error";
+            end);
+
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 143 (1:1)
+            end;
+
+            local v1563, v1564 = pcall(v11, game, "RunService");
+            local v1566, v1567 = pcall(v11, game, "Workspace");
+
+            if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 144 (1:1)
+            end;
+
+            local success_28, v1584, v1585 = pcall(function(a_296, b_296, c_296)
+                return v12:IsClient(), v12:IsServer();
+            end);
+
+            if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 145 (1:1)
+            end;
+
+            local v1597, v1598 = pcall(buffer.create, 16);
+
+            if (typeof(
+                buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+            ) ~= "buffer") or (false) then -- didnt run, if id: 146 (1:1)
+            end;
+
+            if (type(Random) ~= "table") or (false) then -- didnt run, if id: 147 (1:1)
+            end;
+
+            v91();
+
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_518, b_518, c_518)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+        end, function(p1_17, a_17, b_17, c_17)
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_118, b_118, c_118)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+        xpcall(function(a_298, b_298, c_298, ...)
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 148 (1:1)
+            end;
+
+            local v1615, v1616 = pcall(v11, game, "RunService");
+            local v1618, v1619 = pcall(v11, game, "Workspace");
+
+            if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 149 (1:1)
+            end;
+
+            local success_29, v1636, v1637 = pcall(function(a_306, b_306, c_306)
+                return v12:IsClient(), v12:IsServer();
+            end);
+
+            if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 150 (1:1)
+            end;
+
+            local v1649, v1650 = pcall(buffer.create, 16);
+
+            if (typeof(
+                buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+            ) ~= "buffer") or (false) then -- didnt run, if id: 151 (1:1)
+            end;
+
+            if (type(Random) ~= "table") or (false) then -- didnt run, if id: 152 (1:1)
+            end;
+
+            v91();
+
+            --[1:1] The script errored here with the message: "invalid argument #1 to 'new' (number expected, got nil)"
+        end, function(p1_17, a_17, b_17, c_17)
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_118, b_118, c_118)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+
+        if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 43 (1:1)
+        end;
+
+        local v500, v501 = pcall(v11, game, "RunService");
+        local v503, v504 = pcall(v11, game, "Workspace");
+
+        if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 44 (1:1)
+        end;
+
+        local success_8, v521, v522 = pcall(function(a_96, b_96, c_96)
+            return v12:IsClient(), v12:IsServer();
+        end);
+
+        if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 45 (1:1)
+        end;
+
+        local v534, v535 = pcall(buffer.create, 16);
+
+        if (typeof(
+            buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+        ) ~= "buffer") or (false) then -- didnt run, if id: 46 (1:1)
+        end;
+
+        if (type(Random) ~= "table") or (false) then -- didnt run, if id: 47 (1:1)
+        end;
+
+        v91();
+
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_308, b_308, c_308)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_308, b_308, c_308)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+    end, function(p1_17, a_17, b_17, c_17)
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_118, b_118, c_118)
+            return "FlowObf Error";
+        end);
+
+        return "FlowObf Error";
+    end);
+    xpcall(function(a_98, b_98, c_98, ...)
+        xpcall(function(a_308, b_308, c_308, ...)
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 153 (1:1)
+            end;
+
+            local v1666, v1667 = pcall(v11, game, "RunService");
+            local v1669, v1670 = pcall(v11, game, "Workspace");
+
+            if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 154 (1:1)
+            end;
+
+            local success_30, v1687, v1688 = pcall(function(a_316, b_316, c_316)
+                return v12:IsClient(), v12:IsServer();
+            end);
+
+            if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 155 (1:1)
+            end;
+
+            local v1700, v1701 = pcall(buffer.create, 16);
+
+            if (typeof(
+                buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+            ) ~= "buffer") or (false) then -- didnt run, if id: 156 (1:1)
+            end;
+
+            if (type(Random) ~= "table") or (false) then -- didnt run, if id: 157 (1:1)
+            end;
+
+            v91();
+
+            --[1:1] The script errored here with the message: "invalid argument #1 to 'new' (number expected, got nil)"
+        end, function(p1_17, a_17, b_17, c_17)
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_118, b_118, c_118)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+
+        if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 48 (1:1)
+        end;
+
+        local v554, v555 = pcall(v11, game, "RunService");
+        local v557, v558 = pcall(v11, game, "Workspace");
+
+        if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 49 (1:1)
+        end;
+
+        local success_9, v575, v576 = pcall(function(a_106, b_106, c_106)
+            return v12:IsClient(), v12:IsServer();
+        end);
+
+        if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 50 (1:1)
+        end;
+
+        local v588, v589 = pcall(buffer.create, 16);
+
+        if (typeof(
+            buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+        ) ~= "buffer") or (false) then -- didnt run, if id: 51 (1:1)
+        end;
+
+        if (type(Random) ~= "table") or (false) then -- didnt run, if id: 52 (1:1)
+        end;
+
+        v91();
+
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_318, b_318, c_318)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+    end, function(p1_17, a_17, b_17, c_17)
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_118, b_118, c_118)
+            return "FlowObf Error";
+        end);
+
+        return "FlowObf Error";
+    end);
+    xpcall(function(a_108, b_108, c_108, ...)
+        if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 53 (1:1)
+        end;
+
+        local v606, v607 = pcall(v11, game, "RunService");
+        local v609, v610 = pcall(v11, game, "Workspace");
+
+        if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 54 (1:1)
+        end;
+
+        local success_10, v627, v628 = pcall(function(a_116, b_116, c_116)
+            return v12:IsClient(), v12:IsServer();
+        end);
+
+        if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 55 (1:1)
+        end;
+
+        local v640, v641 = pcall(buffer.create, 16);
+
+        if (typeof(
+            buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+        ) ~= "buffer") or (false) then -- didnt run, if id: 56 (1:1)
+        end;
+
+        if (type(Random) ~= "table") or (false) then -- didnt run, if id: 57 (1:1)
+        end;
+
+        v91();
+
+        --[1:1] The script errored here with the message: "invalid argument #1 to 'new' (number expected, got nil)"
+    end, function(p1_17, a_17, b_17, c_17)
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_118, b_118, c_118)
+            return "FlowObf Error";
+        end);
+
+        return "FlowObf Error";
+    end);
+
+    if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 3 (1:1)
+    end;
+
+    local v48, v49 = pcall(v11, game, "RunService");
+    local v51, v52 = pcall(v11, game, "Workspace");
+
+    if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 4 (1:1)
+    end;
+
+    local success, v71, v72 = pcall(function(a_15, b_15, c_15)
+        return v12:IsClient(), v12:IsServer();
+    end);
+
+    if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 5 (1:1)
+    end;
+
+    local v84, v85 = pcall(buffer.create, 16);
+
+    if (typeof(
+        buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+    ) ~= "buffer") or (false) then -- didnt run, if id: 6 (1:1)
+    end;
+
+    if (type(Random) ~= "table") or (function()
+        local v91 = Random.new;
+
+        return false;
+    end)() then -- didnt run, if id: 7 (1:1)
+    end;
+
+    v91();
+
+    xpcall(function(a_68, b_68, c_68)
+        return "FlowObf Error";
+    end, function(a_118, b_118, c_118)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+
+    xpcall(function(a_68, b_68, c_68)
+        return "FlowObf Error";
+    end, function(a_118, b_118, c_118)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+
+    xpcall(function(a_68, b_68, c_68)
+        return "FlowObf Error";
+    end, function(a_118, b_118, c_118)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+
+    xpcall(function(a_68, b_68, c_68)
+        return "FlowObf Error";
+    end, function(a_118, b_118, c_118)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+
+    xpcall(function(a_68, b_68, c_68)
+        return "FlowObf Error";
+    end, function(a_118, b_118, c_118)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+end, function(p1_17, a_17, b_17, c_17)
+    xpcall(function(a_68, b_68, c_68)
+        return "FlowObf Error";
+    end, function(a_118, b_118, c_118)
+        return "FlowObf Error";
+    end);
+
+    return "FlowObf Error";
+end);
+xpcall(function(a_18, b_18, c_18, ...)
+    xpcall(function(a_118, b_118, c_118, ...)
+        xpcall(function(a_318, b_318, c_318, ...)
+            xpcall(function(a_518, b_518, c_518, ...)
+                xpcall(function(a_618, b_618, c_618, ...)
+                    if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 308 (1:1)
+                    end;
+
+                    local v3271, v3272 = pcall(v11, game, "RunService");
+                    local v3274, v3275 = pcall(v11, game, "Workspace");
+
+                    if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 309 (1:1)
+                    end;
+
+                    local success_61, v3292, v3293 = pcall(function(a_626, b_626, c_626)
+                        return v12:IsClient(), v12:IsServer();
+                    end);
+
+                    if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 310 (1:1)
+                    end;
+
+                    local v3305, v3306 = pcall(buffer.create, 16);
+
+                    if (typeof(
+                        buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+                    ) ~= "buffer") or (false) then -- didnt run, if id: 311 (1:1)
+                    end;
+
+                    if (type(Random) ~= "table") or (false) then -- didnt run, if id: 312 (1:1)
+                    end;
+
+                    v91();
+
+                    --[1:1] The script errored here with the message: "invalid argument #1 to 'new' (number expected, got nil)"
+                end, function(p1_17, a_17, b_17, c_17)
+                    xpcall(function(a_68, b_68, c_68)
+                        return "FlowObf Error";
+                    end, function(a_118, b_118, c_118)
+                        return "FlowObf Error";
+                    end);
+
+                    return "FlowObf Error";
+                end);
+
+                if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 258 (1:1)
+                end;
+
+                local v2758, v2759 = pcall(v11, game, "RunService");
+                local v2761, v2762 = pcall(v11, game, "Workspace");
+
+                if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 259 (1:1)
+                end;
+
+                local success_51, v2779, v2780 = pcall(function(a_526, b_526, c_526)
+                    return v12:IsClient(), v12:IsServer();
+                end);
+
+                if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 260 (1:1)
+                end;
+
+                local v2792, v2793 = pcall(buffer.create, 16);
+
+                if (typeof(
+                    buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+                ) ~= "buffer") or (false) then -- didnt run, if id: 261 (1:1)
+                end;
+
+                if (type(Random) ~= "table") or (false) then -- didnt run, if id: 262 (1:1)
+                end;
+
+                v91();
+
+                xpcall(function(a_68, b_68, c_68)
+                    return "FlowObf Error";
+                end, function(a_628, b_628, c_628)
+                    return "FlowObf Error";
+                end);
+
+                error("FlowObf Error", 0);
+            end, function(p1_17, a_17, b_17, c_17)
+                xpcall(function(a_68, b_68, c_68)
+                    return "FlowObf Error";
+                end, function(a_118, b_118, c_118)
+                    return "FlowObf Error";
+                end);
+
+                return "FlowObf Error";
+            end);
+            xpcall(function(a_528, b_528, c_528, ...)
+                if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 263 (1:1)
+                end;
+
+                local v2810, v2811 = pcall(v11, game, "RunService");
+                local v2813, v2814 = pcall(v11, game, "Workspace");
+
+                if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 264 (1:1)
+                end;
+
+                local success_52, v2831, v2832 = pcall(function(a_536, b_536, c_536)
+                    return v12:IsClient(), v12:IsServer();
+                end);
+
+                if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 265 (1:1)
+                end;
+
+                local v2844, v2845 = pcall(buffer.create, 16);
+
+                if (typeof(
+                    buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+                ) ~= "buffer") or (false) then -- didnt run, if id: 266 (1:1)
+                end;
+
+                if (type(Random) ~= "table") or (false) then -- didnt run, if id: 267 (1:1)
+                end;
+
+                v91();
+
+                --[1:1] The script errored here with the message: "invalid argument #1 to 'new' (number expected, got nil)"
+            end, function(p1_17, a_17, b_17, c_17)
+                xpcall(function(a_68, b_68, c_68)
+                    return "FlowObf Error";
+                end, function(a_118, b_118, c_118)
+                    return "FlowObf Error";
+                end);
+
+                return "FlowObf Error";
+            end);
+
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 158 (1:1)
+            end;
+
+            local v1719, v1720 = pcall(v11, game, "RunService");
+            local v1722, v1723 = pcall(v11, game, "Workspace");
+
+            if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 159 (1:1)
+            end;
+
+            local success_31, v1740, v1741 = pcall(function(a_326, b_326, c_326)
+                return v12:IsClient(), v12:IsServer();
+            end);
+
+            if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 160 (1:1)
+            end;
+
+            local v1753, v1754 = pcall(buffer.create, 16);
+
+            if (typeof(
+                buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+            ) ~= "buffer") or (false) then -- didnt run, if id: 161 (1:1)
+            end;
+
+            if (type(Random) ~= "table") or (false) then -- didnt run, if id: 162 (1:1)
+            end;
+
+            v91();
+
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_538, b_538, c_538)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_538, b_538, c_538)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+        end, function(p1_17, a_17, b_17, c_17)
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_118, b_118, c_118)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+        xpcall(function(a_328, b_328, c_328, ...)
+            xpcall(function(a_538, b_538, c_538, ...)
+                if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 268 (1:1)
+                end;
+
+                local v2861, v2862 = pcall(v11, game, "RunService");
+                local v2864, v2865 = pcall(v11, game, "Workspace");
+
+                if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 269 (1:1)
+                end;
+
+                local success_53, v2882, v2883 = pcall(function(a_546, b_546, c_546)
+                    return v12:IsClient(), v12:IsServer();
+                end);
+
+                if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 270 (1:1)
+                end;
+
+                local v2895, v2896 = pcall(buffer.create, 16);
+
+                if (typeof(
+                    buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+                ) ~= "buffer") or (false) then -- didnt run, if id: 271 (1:1)
+                end;
+
+                if (type(Random) ~= "table") or (false) then -- didnt run, if id: 272 (1:1)
+                end;
+
+                v91();
+
+                --[1:1] The script errored here with the message: "invalid argument #1 to 'new' (number expected, got nil)"
+            end, function(p1_17, a_17, b_17, c_17)
+                xpcall(function(a_68, b_68, c_68)
+                    return "FlowObf Error";
+                end, function(a_118, b_118, c_118)
+                    return "FlowObf Error";
+                end);
+
+                return "FlowObf Error";
+            end);
+
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 163 (1:1)
+            end;
+
+            local v1773, v1774 = pcall(v11, game, "RunService");
+            local v1776, v1777 = pcall(v11, game, "Workspace");
+
+            if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 164 (1:1)
+            end;
+
+            local success_32, v1794, v1795 = pcall(function(a_336, b_336, c_336)
+                return v12:IsClient(), v12:IsServer();
+            end);
+
+            if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 165 (1:1)
+            end;
+
+            local v1807, v1808 = pcall(buffer.create, 16);
+
+            if (typeof(
+                buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+            ) ~= "buffer") or (false) then -- didnt run, if id: 166 (1:1)
+            end;
+
+            if (type(Random) ~= "table") or (false) then -- didnt run, if id: 167 (1:1)
+            end;
+
+            v91();
+
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_548, b_548, c_548)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+        end, function(p1_17, a_17, b_17, c_17)
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_118, b_118, c_118)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+        xpcall(function(a_338, b_338, c_338, ...)
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 168 (1:1)
+            end;
+
+            local v1825, v1826 = pcall(v11, game, "RunService");
+            local v1828, v1829 = pcall(v11, game, "Workspace");
+
+            if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 169 (1:1)
+            end;
+
+            local success_33, v1846, v1847 = pcall(function(a_346, b_346, c_346)
+                return v12:IsClient(), v12:IsServer();
+            end);
+
+            if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 170 (1:1)
+            end;
+
+            local v1859, v1860 = pcall(buffer.create, 16);
+
+            if (typeof(
+                buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+            ) ~= "buffer") or (false) then -- didnt run, if id: 171 (1:1)
+            end;
+
+            if (type(Random) ~= "table") or (false) then -- didnt run, if id: 172 (1:1)
+            end;
+
+            v91();
+
+            --[1:1] The script errored here with the message: "invalid argument #1 to 'new' (number expected, got nil)"
+        end, function(p1_17, a_17, b_17, c_17)
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_118, b_118, c_118)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+
+        if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 58 (1:1)
+        end;
+
+        local v660, v661 = pcall(v11, game, "RunService");
+        local v663, v664 = pcall(v11, game, "Workspace");
+
+        if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 59 (1:1)
+        end;
+
+        local success_11, v681, v682 = pcall(function(a_126, b_126, c_126)
+            return v12:IsClient(), v12:IsServer();
+        end);
+
+        if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 60 (1:1)
+        end;
+
+        local v694, v695 = pcall(buffer.create, 16);
+
+        if (typeof(
+            buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+        ) ~= "buffer") or (false) then -- didnt run, if id: 61 (1:1)
+        end;
+
+        if (type(Random) ~= "table") or (false) then -- didnt run, if id: 62 (1:1)
+        end;
+
+        v91();
+
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_348, b_348, c_348)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_348, b_348, c_348)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_348, b_348, c_348)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+    end, function(p1_17, a_17, b_17, c_17)
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_118, b_118, c_118)
+            return "FlowObf Error";
+        end);
+
+        return "FlowObf Error";
+    end);
+    xpcall(function(a_128, b_128, c_128, ...)
+        xpcall(function(a_348, b_348, c_348, ...)
+            xpcall(function(a_548, b_548, c_548, ...)
+                if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 273 (1:1)
+                end;
+
+                local v2912, v2913 = pcall(v11, game, "RunService");
+                local v2915, v2916 = pcall(v11, game, "Workspace");
+
+                if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 274 (1:1)
+                end;
+
+                local success_54, v2933, v2934 = pcall(function(a_556, b_556, c_556)
+                    return v12:IsClient(), v12:IsServer();
+                end);
+
+                if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 275 (1:1)
+                end;
+
+                local v2946, v2947 = pcall(buffer.create, 16);
+
+                if (typeof(
+                    buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+                ) ~= "buffer") or (false) then -- didnt run, if id: 276 (1:1)
+                end;
+
+                if (type(Random) ~= "table") or (false) then -- didnt run, if id: 277 (1:1)
+                end;
+
+                v91();
+
+                --[1:1] The script errored here with the message: "invalid argument #1 to 'new' (number expected, got nil)"
+            end, function(p1_17, a_17, b_17, c_17)
+                xpcall(function(a_68, b_68, c_68)
+                    return "FlowObf Error";
+                end, function(a_118, b_118, c_118)
+                    return "FlowObf Error";
+                end);
+
+                return "FlowObf Error";
+            end);
+
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 173 (1:1)
+            end;
+
+            local v1877, v1878 = pcall(v11, game, "RunService");
+            local v1880, v1881 = pcall(v11, game, "Workspace");
+
+            if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 174 (1:1)
+            end;
+
+            local success_34, v1898, v1899 = pcall(function(a_356, b_356, c_356)
+                return v12:IsClient(), v12:IsServer();
+            end);
+
+            if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 175 (1:1)
+            end;
+
+            local v1911, v1912 = pcall(buffer.create, 16);
+
+            if (typeof(
+                buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+            ) ~= "buffer") or (false) then -- didnt run, if id: 176 (1:1)
+            end;
+
+            if (type(Random) ~= "table") or (false) then -- didnt run, if id: 177 (1:1)
+            end;
+
+            v91();
+
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_558, b_558, c_558)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+        end, function(p1_17, a_17, b_17, c_17)
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_118, b_118, c_118)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+        xpcall(function(a_358, b_358, c_358, ...)
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 178 (1:1)
+            end;
+
+            local v1929, v1930 = pcall(v11, game, "RunService");
+            local v1932, v1933 = pcall(v11, game, "Workspace");
+
+            if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 179 (1:1)
+            end;
+
+            local success_35, v1950, v1951 = pcall(function(a_366, b_366, c_366)
+                return v12:IsClient(), v12:IsServer();
+            end);
+
+            if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 180 (1:1)
+            end;
+
+            local v1963, v1964 = pcall(buffer.create, 16);
+
+            if (typeof(
+                buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+            ) ~= "buffer") or (false) then -- didnt run, if id: 181 (1:1)
+            end;
+
+            if (type(Random) ~= "table") or (false) then -- didnt run, if id: 182 (1:1)
+            end;
+
+            v91();
+
+            --[1:1] The script errored here with the message: "invalid argument #1 to 'new' (number expected, got nil)"
+        end, function(p1_17, a_17, b_17, c_17)
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_118, b_118, c_118)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+
+        if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 63 (1:1)
+        end;
+
+        local v716, v717 = pcall(v11, game, "RunService");
+        local v719, v720 = pcall(v11, game, "Workspace");
+
+        if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 64 (1:1)
+        end;
+
+        local success_12, v737, v738 = pcall(function(a_136, b_136, c_136)
+            return v12:IsClient(), v12:IsServer();
+        end);
+
+        if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 65 (1:1)
+        end;
+
+        local v750, v751 = pcall(buffer.create, 16);
+
+        if (typeof(
+            buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+        ) ~= "buffer") or (false) then -- didnt run, if id: 66 (1:1)
+        end;
+
+        if (type(Random) ~= "table") or (false) then -- didnt run, if id: 67 (1:1)
+        end;
+
+        v91();
+
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_368, b_368, c_368)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_368, b_368, c_368)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+    end, function(p1_17, a_17, b_17, c_17)
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_118, b_118, c_118)
+            return "FlowObf Error";
+        end);
+
+        return "FlowObf Error";
+    end);
+    xpcall(function(a_138, b_138, c_138, ...)
+        xpcall(function(a_368, b_368, c_368, ...)
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 183 (1:1)
+            end;
+
+            local v1980, v1981 = pcall(v11, game, "RunService");
+            local v1983, v1984 = pcall(v11, game, "Workspace");
+
+            if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 184 (1:1)
+            end;
+
+            local success_36, v2001, v2002 = pcall(function(a_376, b_376, c_376)
+                return v12:IsClient(), v12:IsServer();
+            end);
+
+            if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 185 (1:1)
+            end;
+
+            local v2014, v2015 = pcall(buffer.create, 16);
+
+            if (typeof(
+                buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+            ) ~= "buffer") or (false) then -- didnt run, if id: 186 (1:1)
+            end;
+
+            if (type(Random) ~= "table") or (false) then -- didnt run, if id: 187 (1:1)
+            end;
+
+            v91();
+
+            --[1:1] The script errored here with the message: "invalid argument #1 to 'new' (number expected, got nil)"
+        end, function(p1_17, a_17, b_17, c_17)
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_118, b_118, c_118)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+
+        if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 68 (1:1)
+        end;
+
+        local v770, v771 = pcall(v11, game, "RunService");
+        local v773, v774 = pcall(v11, game, "Workspace");
+
+        if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 69 (1:1)
+        end;
+
+        local success_13, v791, v792 = pcall(function(a_146, b_146, c_146)
+            return v12:IsClient(), v12:IsServer();
+        end);
+
+        if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 70 (1:1)
+        end;
+
+        local v804, v805 = pcall(buffer.create, 16);
+
+        if (typeof(
+            buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+        ) ~= "buffer") or (false) then -- didnt run, if id: 71 (1:1)
+        end;
+
+        if (type(Random) ~= "table") or (false) then -- didnt run, if id: 72 (1:1)
+        end;
+
+        v91();
+
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_378, b_378, c_378)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+    end, function(p1_17, a_17, b_17, c_17)
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_118, b_118, c_118)
+            return "FlowObf Error";
+        end);
+
+        return "FlowObf Error";
+    end);
+    xpcall(function(a_148, b_148, c_148, ...)
+        if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 73 (1:1)
+        end;
+
+        local v822, v823 = pcall(v11, game, "RunService");
+        local v825, v826 = pcall(v11, game, "Workspace");
+
+        if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 74 (1:1)
+        end;
+
+        local success_14, v843, v844 = pcall(function(a_156, b_156, c_156)
+            return v12:IsClient(), v12:IsServer();
+        end);
+
+        if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 75 (1:1)
+        end;
+
+        local v856, v857 = pcall(buffer.create, 16);
+
+        if (typeof(
+            buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+        ) ~= "buffer") or (false) then -- didnt run, if id: 76 (1:1)
+        end;
+
+        if (type(Random) ~= "table") or (false) then -- didnt run, if id: 77 (1:1)
+        end;
+
+        v91();
+
+        --[1:1] The script errored here with the message: "invalid argument #1 to 'new' (number expected, got nil)"
+    end, function(p1_17, a_17, b_17, c_17)
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_118, b_118, c_118)
+            return "FlowObf Error";
+        end);
+
+        return "FlowObf Error";
+    end);
+
+    if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 8 (1:1)
+    end;
+
+    local v111, v112 = pcall(v11, game, "RunService");
+    local v114, v115 = pcall(v11, game, "Workspace");
+
+    if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 9 (1:1)
+    end;
+
+    local success_1, v132, v133 = pcall(function(a_26, b_26, c_26)
+        return v12:IsClient(), v12:IsServer();
+    end);
+
+    if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 10 (1:1)
+    end;
+
+    local v145, v146 = pcall(buffer.create, 16);
+
+    if (typeof(
+        buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+    ) ~= "buffer") or (false) then -- didnt run, if id: 11 (1:1)
+    end;
+
+    if (type(Random) ~= "table") or (false) then -- didnt run, if id: 12 (1:1)
+    end;
+
+    v91();
+
+    xpcall(function(a_68, b_68, c_68)
+        return "FlowObf Error";
+    end, function(a_158, b_158, c_158)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+
+    xpcall(function(a_68, b_68, c_68)
+        return "FlowObf Error";
+    end, function(a_158, b_158, c_158)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+
+    xpcall(function(a_68, b_68, c_68)
+        return "FlowObf Error";
+    end, function(a_158, b_158, c_158)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+
+    xpcall(function(a_68, b_68, c_68)
+        return "FlowObf Error";
+    end, function(a_158, b_158, c_158)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+end, function(p1_17, a_17, b_17, c_17)
+    xpcall(function(a_68, b_68, c_68)
+        return "FlowObf Error";
+    end, function(a_118, b_118, c_118)
+        return "FlowObf Error";
+    end);
+
+    return "FlowObf Error";
+end);
+xpcall(function(a_28, b_28, c_28, ...)
+    xpcall(function(a_158, b_158, c_158, ...)
+        xpcall(function(a_378, b_378, c_378, ...)
+            xpcall(function(a_558, b_558, c_558, ...)
+                if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 278 (1:1)
+                end;
+
+                local v2963, v2964 = pcall(v11, game, "RunService");
+                local v2966, v2967 = pcall(v11, game, "Workspace");
+
+                if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 279 (1:1)
+                end;
+
+                local success_55, v2984, v2985 = pcall(function(a_566, b_566, c_566)
+                    return v12:IsClient(), v12:IsServer();
+                end);
+
+                if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 280 (1:1)
+                end;
+
+                local v2997, v2998 = pcall(buffer.create, 16);
+
+                if (typeof(
+                    buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+                ) ~= "buffer") or (false) then -- didnt run, if id: 281 (1:1)
+                end;
+
+                if (type(Random) ~= "table") or (false) then -- didnt run, if id: 282 (1:1)
+                end;
+
+                v91();
+
+                --[1:1] The script errored here with the message: "invalid argument #1 to 'new' (number expected, got nil)"
+            end, function(p1_17, a_17, b_17, c_17)
+                xpcall(function(a_68, b_68, c_68)
+                    return "FlowObf Error";
+                end, function(a_118, b_118, c_118)
+                    return "FlowObf Error";
+                end);
+
+                return "FlowObf Error";
+            end);
+
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 188 (1:1)
+            end;
+
+            local v2032, v2033 = pcall(v11, game, "RunService");
+            local v2035, v2036 = pcall(v11, game, "Workspace");
+
+            if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 189 (1:1)
+            end;
+
+            local success_37, v2053, v2054 = pcall(function(a_386, b_386, c_386)
+                return v12:IsClient(), v12:IsServer();
+            end);
+
+            if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 190 (1:1)
+            end;
+
+            local v2066, v2067 = pcall(buffer.create, 16);
+
+            if (typeof(
+                buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+            ) ~= "buffer") or (false) then -- didnt run, if id: 191 (1:1)
+            end;
+
+            if (type(Random) ~= "table") or (false) then -- didnt run, if id: 192 (1:1)
+            end;
+
+            v91();
+
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_568, b_568, c_568)
+                return "FlowObf Error";
+            end);
+
+            error("FlowObf Error", 0);
+        end, function(p1_17, a_17, b_17, c_17)
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_118, b_118, c_118)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+        xpcall(function(a_388, b_388, c_388, ...)
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 193 (1:1)
+            end;
+
+            local v2084, v2085 = pcall(v11, game, "RunService");
+            local v2087, v2088 = pcall(v11, game, "Workspace");
+
+            if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 194 (1:1)
+            end;
+
+            local success_38, v2105, v2106 = pcall(function(a_396, b_396, c_396)
+                return v12:IsClient(), v12:IsServer();
+            end);
+
+            if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 195 (1:1)
+            end;
+
+            local v2118, v2119 = pcall(buffer.create, 16);
+
+            if (typeof(
+                buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+            ) ~= "buffer") or (false) then -- didnt run, if id: 196 (1:1)
+            end;
+
+            if (type(Random) ~= "table") or (false) then -- didnt run, if id: 197 (1:1)
+            end;
+
+            v91();
+
+            --[1:1] The script errored here with the message: "invalid argument #1 to 'new' (number expected, got nil)"
+        end, function(p1_17, a_17, b_17, c_17)
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_118, b_118, c_118)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+
+        if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 78 (1:1)
+        end;
+
+        local v875, v876 = pcall(v11, game, "RunService");
+        local v878, v879 = pcall(v11, game, "Workspace");
+
+        if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 79 (1:1)
+        end;
+
+        local success_15, v896, v897 = pcall(function(a_166, b_166, c_166)
+            return v12:IsClient(), v12:IsServer();
+        end);
+
+        if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 80 (1:1)
+        end;
+
+        local v909, v910 = pcall(buffer.create, 16);
+
+        if (typeof(
+            buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+        ) ~= "buffer") or (false) then -- didnt run, if id: 81 (1:1)
+        end;
+
+        if (type(Random) ~= "table") or (false) then -- didnt run, if id: 82 (1:1)
+        end;
+
+        v91();
+
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_398, b_398, c_398)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_398, b_398, c_398)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+    end, function(p1_17, a_17, b_17, c_17)
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_118, b_118, c_118)
+            return "FlowObf Error";
+        end);
+
+        return "FlowObf Error";
+    end);
+    xpcall(function(a_168, b_168, c_168, ...)
+        xpcall(function(a_398, b_398, c_398, ...)
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 198 (1:1)
+            end;
+
+            local v2135, v2136 = pcall(v11, game, "RunService");
+            local v2138, v2139 = pcall(v11, game, "Workspace");
+
+            if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 199 (1:1)
+            end;
+
+            local success_39, v2156, v2157 = pcall(function(a_406, b_406, c_406)
+                return v12:IsClient(), v12:IsServer();
+            end);
+
+            if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 200 (1:1)
+            end;
+
+            local v2169, v2170 = pcall(buffer.create, 16);
+
+            if (typeof(
+                buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+            ) ~= "buffer") or (false) then -- didnt run, if id: 201 (1:1)
+            end;
+
+            if (type(Random) ~= "table") or (false) then -- didnt run, if id: 202 (1:1)
+            end;
+
+            v91();
+
+            --[1:1] The script errored here with the message: "invalid argument #1 to 'new' (number expected, got nil)"
+        end, function(p1_17, a_17, b_17, c_17)
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_118, b_118, c_118)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+
+        if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 83 (1:1)
+        end;
+
+        local v929, v930 = pcall(v11, game, "RunService");
+        local v932, v933 = pcall(v11, game, "Workspace");
+
+        if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 84 (1:1)
+        end;
+
+        local success_16, v950, v951 = pcall(function(a_176, b_176, c_176)
+            return v12:IsClient(), v12:IsServer();
+        end);
+
+        if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 85 (1:1)
+        end;
+
+        local v963, v964 = pcall(buffer.create, 16);
+
+        if (typeof(
+            buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+        ) ~= "buffer") or (false) then -- didnt run, if id: 86 (1:1)
+        end;
+
+        if (type(Random) ~= "table") or (false) then -- didnt run, if id: 87 (1:1)
+        end;
+
+        v91();
+
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_408, b_408, c_408)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+    end, function(p1_17, a_17, b_17, c_17)
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_118, b_118, c_118)
+            return "FlowObf Error";
+        end);
+
+        return "FlowObf Error";
+    end);
+    xpcall(function(a_178, b_178, c_178, ...)
+        if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 88 (1:1)
+        end;
+
+        local v981, v982 = pcall(v11, game, "RunService");
+        local v984, v985 = pcall(v11, game, "Workspace");
+
+        if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 89 (1:1)
+        end;
+
+        local success_17, v1002, v1003 = pcall(function(a_186, b_186, c_186)
+            return v12:IsClient(), v12:IsServer();
+        end);
+
+        if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 90 (1:1)
+        end;
+
+        local v1015, v1016 = pcall(buffer.create, 16);
+
+        if (typeof(
+            buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+        ) ~= "buffer") or (false) then -- didnt run, if id: 91 (1:1)
+        end;
+
+        if (type(Random) ~= "table") or (false) then -- didnt run, if id: 92 (1:1)
+        end;
+
+        v91();
+
+        --[1:1] The script errored here with the message: "invalid argument #1 to 'new' (number expected, got nil)"
+    end, function(p1_17, a_17, b_17, c_17)
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_118, b_118, c_118)
+            return "FlowObf Error";
+        end);
+
+        return "FlowObf Error";
+    end);
+
+    if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 13 (1:1)
+    end;
+
+    local v169, v170 = pcall(v11, game, "RunService");
+    local v172, v173 = pcall(v11, game, "Workspace");
+
+    if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 14 (1:1)
+    end;
+
+    local success_2, v190, v191 = pcall(function(a_36, b_36, c_36)
+        return v12:IsClient(), v12:IsServer();
+    end);
+
+    if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 15 (1:1)
+    end;
+
+    local v203, v204 = pcall(buffer.create, 16);
+
+    if (typeof(
+        buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+    ) ~= "buffer") or (false) then -- didnt run, if id: 16 (1:1)
+    end;
+
+    if (type(Random) ~= "table") or (false) then -- didnt run, if id: 17 (1:1)
+    end;
+
+    v91();
+
+    xpcall(function(a_68, b_68, c_68)
+        return "FlowObf Error";
+    end, function(a_188, b_188, c_188)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+
+    xpcall(function(a_68, b_68, c_68)
+        return "FlowObf Error";
+    end, function(a_188, b_188, c_188)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+
+    xpcall(function(a_68, b_68, c_68)
+        return "FlowObf Error";
+    end, function(a_188, b_188, c_188)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+end, function(p1_17, a_17, b_17, c_17)
+    xpcall(function(a_68, b_68, c_68)
+        return "FlowObf Error";
+    end, function(a_118, b_118, c_118)
+        return "FlowObf Error";
+    end);
+
+    return "FlowObf Error";
+end);
+xpcall(function(a_38, b_38, c_38, ...)
+    xpcall(function(a_188, b_188, c_188, ...)
+        xpcall(function(a_408, b_408, c_408, ...)
+            if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 203 (1:1)
+            end;
+
+            local v2186, v2187 = pcall(v11, game, "RunService");
+            local v2189, v2190 = pcall(v11, game, "Workspace");
+
+            if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 204 (1:1)
+            end;
+
+            local success_40, v2207, v2208 = pcall(function(a_416, b_416, c_416)
+                return v12:IsClient(), v12:IsServer();
+            end);
+
+            if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 205 (1:1)
+            end;
+
+            local v2220, v2221 = pcall(buffer.create, 16);
+
+            if (typeof(
+                buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+            ) ~= "buffer") or (false) then -- didnt run, if id: 206 (1:1)
+            end;
+
+            if (type(Random) ~= "table") or (false) then -- didnt run, if id: 207 (1:1)
+            end;
+
+            v91();
+
+            --[1:1] The script errored here with the message: "invalid argument #1 to 'new' (number expected, got nil)"
+        end, function(p1_17, a_17, b_17, c_17)
+            xpcall(function(a_68, b_68, c_68)
+                return "FlowObf Error";
+            end, function(a_118, b_118, c_118)
+                return "FlowObf Error";
+            end);
+
+            return "FlowObf Error";
+        end);
+
+        if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 93 (1:1)
+        end;
+
+        local v1033, v1034 = pcall(v11, game, "RunService");
+        local v1036, v1037 = pcall(v11, game, "Workspace");
+
+        if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 94 (1:1)
+        end;
+
+        local success_18, v1054, v1055 = pcall(function(a_196, b_196, c_196)
+            return v12:IsClient(), v12:IsServer();
+        end);
+
+        if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 95 (1:1)
+        end;
+
+        local v1067, v1068 = pcall(buffer.create, 16);
+
+        if (typeof(
+            buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+        ) ~= "buffer") or (false) then -- didnt run, if id: 96 (1:1)
+        end;
+
+        if (type(Random) ~= "table") or (false) then -- didnt run, if id: 97 (1:1)
+        end;
+
+        v91();
+
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_418, b_418, c_418)
+            return "FlowObf Error";
+        end);
+
+        error("FlowObf Error", 0);
+    end, function(p1_17, a_17, b_17, c_17)
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_118, b_118, c_118)
+            return "FlowObf Error";
+        end);
+
+        return "FlowObf Error";
+    end);
+    xpcall(function(a_198, b_198, c_198, ...)
+        if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 98 (1:1)
+        end;
+
+        local v1085, v1086 = pcall(v11, game, "RunService");
+        local v1088, v1089 = pcall(v11, game, "Workspace");
+
+        if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 99 (1:1)
+        end;
+
+        local success_19, v1106, v1107 = pcall(function(a_206, b_206, c_206)
+            return v12:IsClient(), v12:IsServer();
+        end);
+
+        if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 100 (1:1)
+        end;
+
+        local v1119, v1120 = pcall(buffer.create, 16);
+
+        if (typeof(
+            buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+        ) ~= "buffer") or (false) then -- didnt run, if id: 101 (1:1)
+        end;
+
+        if (type(Random) ~= "table") or (false) then -- didnt run, if id: 102 (1:1)
+        end;
+
+        v91();
+
+        --[1:1] The script errored here with the message: "invalid argument #1 to 'new' (number expected, got nil)"
+    end, function(p1_17, a_17, b_17, c_17)
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_118, b_118, c_118)
+            return "FlowObf Error";
+        end);
+
+        return "FlowObf Error";
+    end);
+
+    if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 18 (1:1)
+    end;
+
+    local v225, v226 = pcall(v11, game, "RunService");
+    local v228, v229 = pcall(v11, game, "Workspace");
+
+    if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 19 (1:1)
+    end;
+
+    local success_3, v246, v247 = pcall(function(a_46, b_46, c_46)
+        return v12:IsClient(), v12:IsServer();
+    end);
+
+    if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 20 (1:1)
+    end;
+
+    local v259, v260 = pcall(buffer.create, 16);
+
+    if (typeof(
+        buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+    ) ~= "buffer") or (false) then -- didnt run, if id: 21 (1:1)
+    end;
+
+    if (type(Random) ~= "table") or (false) then -- didnt run, if id: 22 (1:1)
+    end;
+
+    v91();
+
+    xpcall(function(a_68, b_68, c_68)
+        return "FlowObf Error";
+    end, function(a_208, b_208, c_208)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+
+    xpcall(function(a_68, b_68, c_68)
+        return "FlowObf Error";
+    end, function(a_208, b_208, c_208)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+end, function(p1_17, a_17, b_17, c_17)
+    xpcall(function(a_68, b_68, c_68)
+        return "FlowObf Error";
+    end, function(a_118, b_118, c_118)
+        return "FlowObf Error";
+    end);
+
+    return "FlowObf Error";
+end);
+xpcall(function(a_48, b_48, c_48, ...)
+    xpcall(function(a_208, b_208, c_208, ...)
+        if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 103 (1:1)
+        end;
+
+        local v1136, v1137 = pcall(v11, game, "RunService");
+        local v1139, v1140 = pcall(v11, game, "Workspace");
+
+        if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 104 (1:1)
+        end;
+
+        local success_20, v1157, v1158 = pcall(function(a_216, b_216, c_216)
+            return v12:IsClient(), v12:IsServer();
+        end);
+
+        if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 105 (1:1)
+        end;
+
+        local v1170, v1171 = pcall(buffer.create, 16);
+
+        if (typeof(
+            buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+        ) ~= "buffer") or (false) then -- didnt run, if id: 106 (1:1)
+        end;
+
+        if (type(Random) ~= "table") or (false) then -- didnt run, if id: 107 (1:1)
+        end;
+
+        v91();
+
+        --[1:1] The script errored here with the message: "invalid argument #1 to 'new' (number expected, got nil)"
+    end, function(p1_17, a_17, b_17, c_17)
+        xpcall(function(a_68, b_68, c_68)
+            return "FlowObf Error";
+        end, function(a_118, b_118, c_118)
+            return "FlowObf Error";
+        end);
+
+        return "FlowObf Error";
+    end);
+
+    if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 23 (1:1)
+    end;
+
+    local v279, v280 = pcall(v11, game, "RunService");
+    local v282, v283 = pcall(v11, game, "Workspace");
+
+    if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 24 (1:1)
+    end;
+
+    local success_4, v300, v301 = pcall(function(a_56, b_56, c_56)
+        return v12:IsClient(), v12:IsServer();
+    end);
+
+    if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 25 (1:1)
+    end;
+
+    local v313, v314 = pcall(buffer.create, 16);
+
+    if (typeof(
+        buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+    ) ~= "buffer") or (false) then -- didnt run, if id: 26 (1:1)
+    end;
+
+    if (type(Random) ~= "table") or (false) then -- didnt run, if id: 27 (1:1)
+    end;
+
+    v91();
+
+    xpcall(function(a_68, b_68, c_68)
+        return "FlowObf Error";
+    end, function(a_218, b_218, c_218)
+        return "FlowObf Error";
+    end);
+
+    error("FlowObf Error", 0);
+end, function(p1_17, a_17, b_17, c_17)
+    xpcall(function(a_68, b_68, c_68)
+        return "FlowObf Error";
+    end, function(a_118, b_118, c_118)
+        return "FlowObf Error";
+    end);
+
+    return "FlowObf Error";
+end);
+xpcall(function(a_58, b_58, c_58, ...)
+    if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 28 (1:1)
+    end;
+
+    local v331, v332 = pcall(v11, game, "RunService");
+    local v334, v335 = pcall(v11, game, "Workspace");
+
+    if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(workspace) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(workspace, workspace)) then -- didnt run, if id: 29 (1:1)
+    end;
+
+    local success_5, v352, v353 = pcall(function(a_66, b_66, c_66)
+        return v12:IsClient(), v12:IsServer();
+    end);
+
+    if (type(buffer) ~= "table") or (false) or (false) or (false) or (false) or (false) or (false) or (false) or (false) then -- didnt run, if id: 30 (1:1)
+    end;
+
+    local v365, v366 = pcall(buffer.create, 16);
+
+    if (typeof(
+        buffer.fromstring"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+    ) ~= "buffer") or (false) then -- didnt run, if id: 31 (1:1)
+    end;
+
+    if (type(Random) ~= "table") or (false) then -- didnt run, if id: 32 (1:1)
+    end;
+
+    v91();
+
+    --[1:1] The script errored here with the message: "invalid argument #1 to 'new' (number expected, got nil)"
+end, function(p1_17, a_17, b_17, c_17)
+    xpcall(function(a_68, b_68, c_68)
+        return "FlowObf Error";
+    end, function(a_118, b_118, c_118)
+        return "FlowObf Error";
+    end);
+
+    return "FlowObf Error";
+end);
+
+if (typeof(game) ~= "Instance") or ((game.ClassName ~= "DataModel")) then -- didnt run, if id: 1 (1:1)
+end;
+
+local v11 = game.GetService;
+
+game:GetService("RunService");
+
+pcall(v11, game, "RunService");
+
+local v14 = game:GetService("Workspace");
+
+pcall(v11, game, "Workspace");
+
+if (typeof(v12) ~= "Instance") or ((v12.ClassName ~= "RunService")) or ((typeof(v14) ~= "Instance")) or ((workspace.ClassName ~= "Workspace")) or (not rawequal(v14, workspace)) then -- ran, if id: 2 (1:1)
+end;
+
+xpcall(function(a_68, b_68, c_68)
+    return "FlowObf Error";
+end, function(a_68, b_68, c_68)
+    return "FlowObf Error";
+end);
+
+error("FlowObf Error", 0);
+
+xpcall(function(a_68, b_68, c_68)
+    return "FlowObf Error";
+end, function(a_68, b_68, c_68)
+    return "FlowObf Error";
+end);
+
+error("FlowObf Error", 0);
+
+xpcall(function(a_68, b_68, c_68)
+    return "FlowObf Error";
+end, function(a_68, b_68, c_68)
+    return "FlowObf Error";
+end);
+
+error("FlowObf Error", 0);
+
+xpcall(function(a_68, b_68, c_68)
+    return "FlowObf Error";
+end, function(a_68, b_68, c_68)
+    return "FlowObf Error";
+end);
+
+error("FlowObf Error", 0);
+
+xpcall(function(a_68, b_68, c_68)
+    return "FlowObf Error";
+end, function(a_68, b_68, c_68)
+    return "FlowObf Error";
+end);
+
+error("FlowObf Error", 0);
+
+xpcall(function(a_68, b_68, c_68)
+    return "FlowObf Error";
+end, function(a_68, b_68, c_68)
+    return "FlowObf Error";
+end);
+
+error("FlowObf Error", 0);
+
+xpcall(function(a_68, b_68, c_68)
+    return "FlowObf Error";
+end, function(a_68, b_68, c_68)
+    return "FlowObf Error";
+end);
+
+error("FlowObf Error", 0);
